@@ -1,6 +1,9 @@
 library(survey)
+
+# Scientific notation is no fun 
 options(scipen = 100)
 
+# Set your working directory
 setwd("E:/data_CHTS 2013/original")
 
 # -----------------------------------
@@ -8,6 +11,10 @@ setwd("E:/data_CHTS 2013/original")
 # -----------------------------------
 
 # Read in the full data files and prepare smaller versions for easier HIA analysis
+# Note that an account with NREL is necessary to access the data
+# See instructions here: http://www.nrel.gov/vehiclesandfuels/secure_transportation_data.html
+# Unzip and place all files in your working directory
+
 # place <- read.csv("place.csv")
 # persons <- read.csv("persons.csv")
 # hhs <- read.csv("households.csv")
@@ -160,7 +167,7 @@ svytotal(~htrips, CA.hh.svy, na.rm = TRUE) # 107,739,833
 # mode == 1, walk
 # mode == 2, bike
 
-# Average non-motorized trip duration per person in Fresno County
+# Total trip duration by mode
 
 # 2 genders, 11 mode categories, 8 age categories
 travel.times <- matrix(nrow = 88, ncol = 2)
@@ -169,15 +176,20 @@ for(i in 1:2) { # gender
 	print(paste0("i is ", i))
 	
 	for (j in 1:11) { # mode category
-		print(paste0("j is", j))
+		print(paste0("j is ", j))
 		
 		for (k in 1:8) { # age category
 			
-			travel.times[j * k, i] <- 
-			ifelse(sum(CA.trips$gend == i & CA.trips$age8cat == k & CA.trips$mode_recode == levels(factor(CA.trips$mode_recode))[j]) > 0, {
-				coef(svytotal(~tripdur,
-					subset(CA.trips.svy, 
-						gend == i & age8cat == k & mode_recode == levels(factor(CA.trips$mode_recode))[j]))) }, 0)
+			travel.times[k + 8 * (j - 1), i] <- 
+			# if there are no trips in this category, return 0, otherwise return the total trip duration by
+			# age-sex category
+				ifelse(sum(CA.trips$gend == i & CA.trips$age8cat == k 
+					& CA.trips$mode_recode == levels(factor(CA.trips$mode_recode))[j]) > 0,
+					{
+						coef(svytotal(~tripdur, 
+							subset(CA.trips.svy, 
+							gend == i & age8cat == k & mode_recode == levels(factor(CA.trips$mode_recode))[j]))) 
+					}, 0)
 			
 			#svytotal(~ones.x, subset(CA.person.svy, gend == i & age8cat == k & ctfip == 6019)))
 		}
@@ -186,13 +198,46 @@ for(i in 1:2) { # gender
 	
 }
 
-try(svytotal(~tripdur, subset(CA.trips.svy, gend == i & age8cat == k & mode_recode == levels(factor(CA.trips$mode_recode))[j])))
+# Check that all travel time has been accounted for
+# Only consider trips made by respondents with reported gender
+stopifnot(round(sum(travel.times)) == round(coef(svytotal(~tripdur, subset(CA.trips.svy, gend %in% c(1,2))))))
+
+# Total trip distance by mode
+
+# 2 genders, 11 mode categories, 8 age categories
+travel.distance <- matrix(nrow = 88, ncol = 2)
+
+for(i in 1:2) { # gender
+	print(paste0("i is ", i))
+	
+	for (j in 1:11) { # mode category
+		print(paste0("j is ", j))
+		
+		for (k in 1:8) { # age category
 			
+			travel.distance[k + 8 * (j - 1), i] <- 
+			# if there are no trips in this category, return 0, otherwise return the total trip duration by
+			# age-sex category
+				ifelse(sum(CA.trips$tripdistance[CA.trips$gend == i & CA.trips$age8cat == k 
+					& CA.trips$mode_recode == levels(factor(CA.trips$mode_recode))[j]], na.rm = TRUE) > 0,
+					{
+						coef(svytotal(~tripdistance, 
+							subset(CA.trips.svy, 
+							gend == i & age8cat == k & mode_recode == levels(factor(CA.trips$mode_recode))[j]), na.rm = TRUE)) 
+					}, 0)
+			
+			#svytotal(~ones.x, subset(CA.person.svy, gend == i & age8cat == k & ctfip == 6019)))
+		}
+		
+	}
+	
+}
 
+# Check that all travel distance has been accounted for
+# Only consider trips made by respondents with reported gender
+stopifnot(round(sum(travel.distance, na.rm = TRUE)) == 
+		round(coef(svytotal(~tripdistance, subset(CA.trips.svy, gend %in% c(1,2)), na.rm = TRUE))))
 
-svytotal(~tripdur, subset(CA.trips.svy, gend == 2 & age8cat == 4 & mode == 2 & ctfip == 6019))
-
-# average non-motorized trip distance per person
-
-# Mode share
-svytotal(~factor(mode), CA.trips.svy)/131781481
+# Write the output and copy into the ITHIM sheet
+write.csv(travel.times, "travelTimebyModeGender.csv", row.names = FALSE)
+write.csv(travel.distance, "travelDistancebyModeGender.csv", row.names = FALSE)

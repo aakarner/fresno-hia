@@ -1,0 +1,20 @@
+Fresno County HIA
+=================
+
+These scripts illustrate one possibility for conducting a health impacts assessment of a regional transportation plan. It is based in part on a method developed by James Woodcock and colleagues for the UK, and Neil Maizlish and colleagues for California. This implementation offers the first application at a sub-regional level, providing detail at the both the county and city/unincorporated area level. In so doing it provides important information about the local benefits of transportation plans that facilitate physical activity via active transportation.
+
+Currently, these scripts prepare a number of publicly (and not publicly) available datasets as input to an Excel spreadsheet that processes the final numbers. Ultimately, the entire HIA will be run programatically and will be transferable to other jurisdictions. 
+
+NB: This is a work in progress - feedback is appreciated.
+
+Data sources currently used
+---------------------------
+
+California Household Travel Survey: http://www.nrel.gov/vehiclesandfuels/secure_transportation_data.html  
+California Department of Public Health Vital Statistics: http://www.cdph.ca.gov/data/statistics/Pages/DeathStatisticalDataTables.aspx  
+California Health Interview Survey: http://healthpolicy.ucla.edu/chis/Pages/default.aspx  
+
+References
+----------------------------
+* Maizlish, N., Woodcock, J., Co, S., Ostro, B., Fanai, A., Fairley, D., 2013. Health cobenefits and transportation-related reductions in greenhouse gas emissions in the San Francisco Bay Area. American Journal of Public Health 103(4), 703-709.
+* Woodcock, J., Edwards, P., Tonne, C., Armstrong, B.G., Ashiru, O., Banister, D., Beevers, S., Chalabi, Z., Chowdhury, Z., Cohen, A., Franco, O.H., Haines, A., Hickman, R., Lindsay, G., Mittal, I., Mohan, D., Tiwari, G., Woodward, A., Roberts, I., Public health benefits of strategies to reduce greenhouse-gas emissions: Urban land transport. The Lancet 374(9705), 1930-1943.
