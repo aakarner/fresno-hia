@@ -13,7 +13,8 @@ Data sources currently used
 ---------------------------
 
 [California Household Travel Survey](http://www.nrel.gov/vehiclesandfuels/secure_transportation_data.html)  
-[Global Burden of Disease](http://ghdx.healthmetricsandevaluation.org/global-burden-disease-study-2010-gbd-2010-data-downloads)  [California Department of Public Health Vital Statistics](http://www.cdph.ca.gov/data/statistics/Pages/DeathStatisticalDataTables.aspx)  
+[Global Burden of Disease](http://ghdx.healthmetricsandevaluation.org/global-burden-disease-study-2010-gbd-2010-data-downloads)  
+[California Department of Public Health Vital Statistics](http://www.cdph.ca.gov/data/statistics/Pages/DeathStatisticalDataTables.aspx)  
 [California Health Interview Survey](http://healthpolicy.ucla.edu/chis/Pages/default.aspx)  
 
 References
