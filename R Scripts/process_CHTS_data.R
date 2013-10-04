@@ -131,8 +131,8 @@ stopifnot(
 )
 
 # All variables
-# Use population weights since we're solving backwards from an unpublished methods in which ages were
-# imputed before ages were calculated.
+# Use population weights since we're solving backwards from an unpublished method in which ages were
+# imputed before weights were calculated.
 imp.NND.1 <- RANDwNND.hotdeck(data.rec = recip.1, data.don = donor.1,	
 	match.vars = NULL, don.class = c("employ_stat", "educa"), weight.don = "expperwgt")
 rec.imp.1 <- create.fused(data.rec = recip.1, data.don = donor.1, mtc.ids = imp.NND.1$mtc.ids, z.vars="age")
