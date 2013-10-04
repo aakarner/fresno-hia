@@ -1,18 +1,20 @@
 Fresno County HIA
 =================
 
-These scripts illustrate one possibility for conducting a health impacts assessment of a regional transportation plan. It is based in part on a method developed by James Woodcock and colleagues for the UK, and Neil Maizlish and colleagues for California. This implementation offers the first application at a sub-regional level, providing detail at the both the county and city/unincorporated area level. In so doing it provides important information about the local benefits of transportation plans that facilitate physical activity via active transportation.
+These scripts illustrate one possibility for conducting a health impacts assessment of a regional transportation plan. It is based in part on a method developed by James Woodcock and colleagues for the UK, and Neil Maizlish and colleagues for California. This implementation offers the first application at a sub-regional level, providing detail at the both the county and city/unincorporated area level. In so doing it provides important information about the local benefits of transportation plans that facilitate physical activity via active transportation. While Woodcock and Maizlish examine the public health impacts of physical activity (PA), accidents, and air quality, this HIA focuses exclusively on PA. PA was found to account for by far the largest gains in public health to be achieved from transportation plans that support the use of non-motorized modes. 
 
 Currently, these scripts prepare a number of publicly (and not publicly) available datasets as input to an Excel spreadsheet that processes the final numbers. Ultimately, the entire HIA will be run programatically and will be transferable to other jurisdictions. 
+
+Read 'step by step HIA instructions.md' for further details on method.
 
 NB: This is a work in progress - feedback is appreciated.
 
 Data sources currently used
 ---------------------------
 
-California Household Travel Survey: http://www.nrel.gov/vehiclesandfuels/secure_transportation_data.html  
-California Department of Public Health Vital Statistics: http://www.cdph.ca.gov/data/statistics/Pages/DeathStatisticalDataTables.aspx  
-California Health Interview Survey: http://healthpolicy.ucla.edu/chis/Pages/default.aspx  
+[California Household Travel Survey](http://www.nrel.gov/vehiclesandfuels/secure_transportation_data.html)  
+[Global Burden of Disease](http://ghdx.healthmetricsandevaluation.org/global-burden-disease-study-2010-gbd-2010-data-downloads)  [California Department of Public Health Vital Statistics](http://www.cdph.ca.gov/data/statistics/Pages/DeathStatisticalDataTables.aspx)  
+[California Health Interview Survey](http://healthpolicy.ucla.edu/chis/Pages/default.aspx)  
 
 References
 ----------------------------
