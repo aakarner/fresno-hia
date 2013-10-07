@@ -180,7 +180,7 @@ place <- read.csv("trip_sm.csv")
 place <- place[place$plano > 1, ] 
 
 # Remove missing cases
-place <- place[!is.na(place$exptcfperwgt), ] # This shouldn't be the case, but one record has no weight
+place <- place[!is.na(place$exptcfperwgt), ] # This shouldn't be necessary, but one record has no weight
 
 # Create an ID variable for matching to person records
 place$ID <- paste0(place$sampn, place$perno)
@@ -281,7 +281,6 @@ persons <- merge(persons, hhs, by.x = "sampn", by.y = "sampno")
 sum(is.na(CA.trips$mode))
 CA.trips <- CA.trips[!is.na(CA.trips$exptcfperwgt), ]
 
-
 # -----------------------------------
 # Analysis
 # -----------------------------------
@@ -344,12 +343,9 @@ travel.times <- matrix(nrow = 88, ncol = 2)
 
 for(i in 1:2) { # gender
 	print(paste0("i is ", i))
-	
 	for (j in 1:11) { # mode category
 		print(paste0("j is ", j))
-		
 		for (k in 1:8) { # age category
-			
 			travel.times[k + 8 * (j - 1), i] <- 
 			# if there are no trips in this category, return 0, otherwise return the total trip duration by
 			# age-sex category
@@ -361,17 +357,14 @@ for(i in 1:2) { # gender
 							gend == i & age8cat == k & ctfip == 6019 & mode_recode == levels(factor(CA.trips$mode_recode))[j]), 
 							na.rm = TRUE))
 					}, 0)
-			
-			#svytotal(~ones.x, subset(CA.person.svy, gend == i & age8cat == k & ctfip == 6019)))
-		}
-		
+		}	
 	}
-	
 }
 
 # Check that all travel time has been accounted for
 # Only consider trips made by respondents with reported gender
-stopifnot(round(sum(travel.times)) == round(coef(svytotal(~tripdur, subset(CA.trips.svy, gend %in% c(1,2))))))
+stopifnot(round(sum(travel.times)) == round(coef(svytotal(~tripdur, subset(CA.trips.svy, gend %in% c(1,2) & 
+		ctfip == 6019)))))
 
 # Total trip distance by mode
 
@@ -383,12 +376,9 @@ travel.distance <- matrix(nrow = 88, ncol = 2)
 
 # for(i in 1:2) { # gender
 # 	print(paste0("i is ", i))
-# 	
 # 	for (j in 1:11) { # mode category
-# 		print(paste0("j is ", j))
-# 		
-# 		for (k in 1:8) { # age category
-# 			
+# 		print(paste0("j is ", j))	
+# 		for (k in 1:8) { # age category		
 # 			travel.distance[k + 8 * (j - 1), i] <- 
 # 			# if there are no trips in this category, return 0, otherwise return the total trip duration by
 # 			# age-sex category
@@ -398,26 +388,18 @@ travel.distance <- matrix(nrow = 88, ncol = 2)
 # 						coef(svytotal(~tripdistance, 
 # 							subset(CA.trips.svy, 
 # 							gend == i & age8cat == k & mode_recode == levels(factor(CA.trips$mode_recode))[j]), na.rm = TRUE)) 
-# 					}, 0)
-# 			
-# 			#svytotal(~ones.x, subset(CA.person.svy, gend == i & age8cat == k & ctfip == 6019)))
+# 					}, 0)		
 # 		}
-# 		
 # 	}
-# 	
 # }
 
 
 # Fresno County 
-
 for(i in 1:2) { # gender
-	print(paste0("i is ", i))
-	
+	print(paste0("i is ", i))	
 	for (j in 1:11) { # mode category
-		print(paste0("j is ", j))
-		
-		for (k in 1:8) { # age category
-			
+		print(paste0("j is ", j))		
+		for (k in 1:8) { # age category			
 			travel.distance[k + 8 * (j - 1), i] <- 
 			# if there are no trips in this category, return 0, otherwise return the total trip duration by
 			# age-sex category
@@ -428,28 +410,24 @@ for(i in 1:2) { # gender
 							subset(CA.trips.svy, 
 							gend == i & age8cat == k & ctfip == 6019 & 
 									mode_recode == levels(factor(CA.trips$mode_recode))[j]), na.rm = TRUE)) 
-					}, 0)
-			
-			#svytotal(~ones.x, subset(CA.person.svy, gend == i & age8cat == k & ctfip == 6019)))
+					}, 0)		
 		}
-		
 	}
-	
 }
 
 
 # Check that all travel distance has been accounted for
 # Only consider trips made by respondents with reported gender
 stopifnot(round(sum(travel.distance, na.rm = TRUE)) == 
-		round(coef(svytotal(~tripdistance, subset(CA.trips.svy, gend %in% c(1,2)), na.rm = TRUE))))
+		round(coef(svytotal(~tripdistance, subset(CA.trips.svy, gend %in% c(1,2) & ctfip == 6019), na.rm = TRUE))))
 
 # Average cycling speed for Fresno county
 coef(svytotal(~tripdistance, subset(CA.trips.svy, mode == 1 & ctfip == 6019 & gend %in% c(1,2)), na.rm = TRUE)) / 
 	(coef(svytotal(~tripdur, subset(CA.trips.svy, mode == 1 & ctfip == 6019 & gend %in% c(1,2))), na.rm = TRUE) / 60)
 
 # Write the output and copy into the ITHIM sheet
-write.csv(travel.times, "travelTimebyModeGender_fresno.csv", row.names = FALSE)
-write.csv(travel.distance, "travelDistancebyModeGender_fresno.csv", row.names = FALSE)
+write.table(travel.times, "travelTimebyModeGender_fresno.csv", sep = ",", row.names = FALSE, col.names = FALSE)
+write.table(travel.distance, "travelDistancebyModeGender_fresno.csv", sep = ",", row.names = FALSE, col.names = FALSE)
 
 # Create a table of population counts
 pop.age.gender <- svytable(~age8cat+gend, CA.person.svy)
