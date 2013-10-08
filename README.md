@@ -16,6 +16,7 @@ Data sources currently used
 [Global Burden of Disease](http://ghdx.healthmetricsandevaluation.org/global-burden-disease-study-2010-gbd-2010-data-downloads)  
 [California Department of Public Health Vital Statistics](http://www.cdph.ca.gov/data/statistics/Pages/DeathStatisticalDataTables.aspx)  
 [California Health Interview Survey](http://healthpolicy.ucla.edu/chis/Pages/default.aspx)  
+[American Community Survey, 2007 - 2011 PUMS records](Link to come post-shutdown.)
 
 References
 ----------------------------
