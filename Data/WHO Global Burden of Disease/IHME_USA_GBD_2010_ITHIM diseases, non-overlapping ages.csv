@@ -1,0 +1,2537 @@
+cause_medium,year,age_name,sex,measure,nm_mean
+Lower respiratory infections,2010,Under 5 years,Males,death,347.044
+Lower respiratory infections,2010,15-19 years,Males,death,59.7743
+Lower respiratory infections,2010,20-24 years,Males,death,106.546
+Lower respiratory infections,2010,25-29 years,Males,death,132.201
+Lower respiratory infections,2010,30-34 years,Males,death,159.033
+Lower respiratory infections,2010,35-39 years,Males,death,230.684
+Lower respiratory infections,2010,40-44 years,Males,death,413.384
+Lower respiratory infections,2010,45-49 years,Males,death,666.228
+Lower respiratory infections,2010,50-54 years,Males,death,1002.13
+Lower respiratory infections,2010,55-59 years,Males,death,1302.8
+Lower respiratory infections,2010,60-64 years,Males,death,1773.22
+Lower respiratory infections,2010,65-69 years,Males,death,2129.04
+Lower respiratory infections,2010,70-74 years,Males,death,2962.69
+Lower respiratory infections,2010,75-79 years,Males,death,4464.4
+Lower respiratory infections,2010,80+ years,Males,death,23759.2
+Lower respiratory infections,2010,All ages,Males,death,39571.4
+Lower respiratory infections,2010,5-14 years,Males,death,62.9928
+Lower respiratory infections,2010,Under 5 years,Females,death,272.633
+Lower respiratory infections,2010,15-19 years,Females,death,52.7144
+Lower respiratory infections,2010,20-24 years,Females,death,83.3545
+Lower respiratory infections,2010,25-29 years,Females,death,103.882
+Lower respiratory infections,2010,30-34 years,Females,death,134.148
+Lower respiratory infections,2010,35-39 years,Females,death,201.96
+Lower respiratory infections,2010,40-44 years,Females,death,338.855
+Lower respiratory infections,2010,45-49 years,Females,death,542.853
+Lower respiratory infections,2010,50-54 years,Females,death,760.576
+Lower respiratory infections,2010,55-59 years,Females,death,989.406
+Lower respiratory infections,2010,60-64 years,Females,death,1374.53
+Lower respiratory infections,2010,65-69 years,Females,death,1670.6
+Lower respiratory infections,2010,70-74 years,Females,death,2374.34
+Lower respiratory infections,2010,75-79 years,Females,death,3801.6
+Lower respiratory infections,2010,80+ years,Females,death,33109.2
+Lower respiratory infections,2010,All ages,Females,death,45876.1
+Lower respiratory infections,2010,5-14 years,Females,death,65.444
+Upper respiratory infections,2010,Under 5 years,Males,death,1.6549
+Upper respiratory infections,2010,15-19 years,Males,death,0.638709
+Upper respiratory infections,2010,20-24 years,Males,death,0.7667
+Upper respiratory infections,2010,25-29 years,Males,death,0.61529
+Upper respiratory infections,2010,30-34 years,Males,death,0.481341
+Upper respiratory infections,2010,35-39 years,Males,death,0.522866
+Upper respiratory infections,2010,40-44 years,Males,death,0.849714
+Upper respiratory infections,2010,45-49 years,Males,death,1.74442
+Upper respiratory infections,2010,50-54 years,Males,death,3.00153
+Upper respiratory infections,2010,55-59 years,Males,death,3.45641
+Upper respiratory infections,2010,60-64 years,Males,death,3.87266
+Upper respiratory infections,2010,65-69 years,Males,death,3.39059
+Upper respiratory infections,2010,70-74 years,Males,death,4.02925
+Upper respiratory infections,2010,75-79 years,Males,death,5.87894
+Upper respiratory infections,2010,80+ years,Males,death,33.9498
+Upper respiratory infections,2010,All ages,Males,death,67.2661
+Upper respiratory infections,2010,5-14 years,Males,death,2.41292
+Upper respiratory infections,2010,Under 5 years,Females,death,1.39138
+Upper respiratory infections,2010,15-19 years,Females,death,0.563271
+Upper respiratory infections,2010,20-24 years,Females,death,0.599812
+Upper respiratory infections,2010,25-29 years,Females,death,0.483489
+Upper respiratory infections,2010,30-34 years,Females,death,0.406021
+Upper respiratory infections,2010,35-39 years,Females,death,0.45776
+Upper respiratory infections,2010,40-44 years,Females,death,0.696521
+Upper respiratory infections,2010,45-49 years,Females,death,1.42138
+Upper respiratory infections,2010,50-54 years,Females,death,2.27803
+Upper respiratory infections,2010,55-59 years,Females,death,2.62494
+Upper respiratory infections,2010,60-64 years,Females,death,3.00192
+Upper respiratory infections,2010,65-69 years,Females,death,2.66051
+Upper respiratory infections,2010,70-74 years,Females,death,3.2291
+Upper respiratory infections,2010,75-79 years,Females,death,5.00613
+Upper respiratory infections,2010,80+ years,Females,death,47.3103
+Upper respiratory infections,2010,All ages,Females,death,74.5553
+Upper respiratory infections,2010,5-14 years,Females,death,2.42476
+Lung cancer,2010,15-19 years,Males,death,5.61407
+Lung cancer,2010,20-24 years,Males,death,13.8426
+Lung cancer,2010,25-29 years,Males,death,29.0939
+Lung cancer,2010,30-34 years,Males,death,68.3725
+Lung cancer,2010,35-39 years,Males,death,191.031
+Lung cancer,2010,40-44 years,Males,death,706.323
+Lung cancer,2010,45-49 years,Males,death,2176.15
+Lung cancer,2010,50-54 years,Males,death,4962.03
+Lung cancer,2010,55-59 years,Males,death,8056.74
+Lung cancer,2010,60-64 years,Males,death,12282.2
+Lung cancer,2010,65-69 years,Males,death,14115.1
+Lung cancer,2010,70-74 years,Males,death,14244.4
+Lung cancer,2010,75-79 years,Males,death,13756.1
+Lung cancer,2010,80+ years,Males,death,21621.4
+Lung cancer,2010,All ages,Males,death,92228.4
+Lung cancer,2010,15-19 years,Females,death,3.38841
+Lung cancer,2010,20-24 years,Females,death,10.505
+Lung cancer,2010,25-29 years,Females,death,24.3518
+Lung cancer,2010,30-34 years,Females,death,69.1526
+Lung cancer,2010,35-39 years,Females,death,204.236
+Lung cancer,2010,40-44 years,Females,death,707.108
+Lung cancer,2010,45-49 years,Females,death,1985.63
+Lung cancer,2010,50-54 years,Females,death,3729.88
+Lung cancer,2010,55-59 years,Females,death,5758.01
+Lung cancer,2010,60-64 years,Females,death,8815.43
+Lung cancer,2010,65-69 years,Females,death,10294.2
+Lung cancer,2010,70-74 years,Females,death,10546
+Lung cancer,2010,75-79 years,Females,death,10360.3
+Lung cancer,2010,80+ years,Females,death,18608.5
+Lung cancer,2010,All ages,Females,death,71116.8
+Breast cancer,2010,15-19 years,Females,death,1.49753
+Breast cancer,2010,20-24 years,Females,death,14.8106
+Breast cancer,2010,25-29 years,Females,death,78.4088
+Breast cancer,2010,30-34 years,Females,death,294.898
+Breast cancer,2010,35-39 years,Females,death,735.843
+Breast cancer,2010,40-44 years,Females,death,1462.02
+Breast cancer,2010,45-49 years,Females,death,2574.81
+Breast cancer,2010,50-54 years,Females,death,3692.94
+Breast cancer,2010,55-59 years,Females,death,4402.92
+Breast cancer,2010,60-64 years,Females,death,5067.47
+Breast cancer,2010,65-69 years,Females,death,4490.49
+Breast cancer,2010,70-74 years,Females,death,4130.83
+Breast cancer,2010,75-79 years,Females,death,4186.91
+Breast cancer,2010,80+ years,Females,death,11428
+Breast cancer,2010,All ages,Females,death,42561.8
+Colorectal cancer,2010,15-19 years,Males,death,10.0867
+Colorectal cancer,2010,20-24 years,Males,death,26.3736
+Colorectal cancer,2010,25-29 years,Males,death,66.7563
+Colorectal cancer,2010,30-34 years,Males,death,115.939
+Colorectal cancer,2010,35-39 years,Males,death,218.497
+Colorectal cancer,2010,40-44 years,Males,death,469.364
+Colorectal cancer,2010,45-49 years,Males,death,1027.55
+Colorectal cancer,2010,50-54 years,Males,death,1812.36
+Colorectal cancer,2010,55-59 years,Males,death,2612.06
+Colorectal cancer,2010,60-64 years,Males,death,3534.89
+Colorectal cancer,2010,65-69 years,Males,death,3819.16
+Colorectal cancer,2010,70-74 years,Males,death,4098.95
+Colorectal cancer,2010,75-79 years,Males,death,4277.97
+Colorectal cancer,2010,80+ years,Males,death,9741.37
+Colorectal cancer,2010,All ages,Males,death,31831.3
+Colorectal cancer,2010,15-19 years,Females,death,5.52913
+Colorectal cancer,2010,20-24 years,Females,death,16.6831
+Colorectal cancer,2010,25-29 years,Females,death,45.7109
+Colorectal cancer,2010,30-34 years,Females,death,99.9993
+Colorectal cancer,2010,35-39 years,Females,death,188.49
+Colorectal cancer,2010,40-44 years,Females,death,414.174
+Colorectal cancer,2010,45-49 years,Females,death,842.347
+Colorectal cancer,2010,50-54 years,Females,death,1448.52
+Colorectal cancer,2010,55-59 years,Females,death,1982.97
+Colorectal cancer,2010,60-64 years,Females,death,2597.46
+Colorectal cancer,2010,65-69 years,Females,death,2900.23
+Colorectal cancer,2010,70-74 years,Females,death,3354.45
+Colorectal cancer,2010,75-79 years,Females,death,4045.65
+Colorectal cancer,2010,80+ years,Females,death,14135
+Colorectal cancer,2010,All ages,Females,death,32077.2
+Rheumatic heart disease,2010,Under 5 years,Males,death,1.55206
+Rheumatic heart disease,2010,15-19 years,Males,death,3.74044
+Rheumatic heart disease,2010,20-24 years,Males,death,5.93076
+Rheumatic heart disease,2010,25-29 years,Males,death,10.1187
+Rheumatic heart disease,2010,30-34 years,Males,death,13.5764
+Rheumatic heart disease,2010,35-39 years,Males,death,17.8108
+Rheumatic heart disease,2010,40-44 years,Males,death,29.354
+Rheumatic heart disease,2010,45-49 years,Males,death,56.8552
+Rheumatic heart disease,2010,50-54 years,Males,death,75.6592
+Rheumatic heart disease,2010,55-59 years,Males,death,99.6675
+Rheumatic heart disease,2010,60-64 years,Males,death,132.407
+Rheumatic heart disease,2010,65-69 years,Males,death,152.166
+Rheumatic heart disease,2010,70-74 years,Males,death,194.781
+Rheumatic heart disease,2010,75-79 years,Males,death,275.965
+Rheumatic heart disease,2010,80+ years,Males,death,1125.94
+Rheumatic heart disease,2010,All ages,Males,death,2197.67
+Rheumatic heart disease,2010,5-14 years,Males,death,2.13771
+Rheumatic heart disease,2010,Under 5 years,Females,death,1.13311
+Rheumatic heart disease,2010,15-19 years,Females,death,2.62914
+Rheumatic heart disease,2010,20-24 years,Females,death,6.32377
+Rheumatic heart disease,2010,25-29 years,Females,death,9.4451
+Rheumatic heart disease,2010,30-34 years,Females,death,11.9071
+Rheumatic heart disease,2010,35-39 years,Females,death,19.0872
+Rheumatic heart disease,2010,40-44 years,Females,death,39.7489
+Rheumatic heart disease,2010,45-49 years,Females,death,66.4178
+Rheumatic heart disease,2010,50-54 years,Females,death,87.7721
+Rheumatic heart disease,2010,55-59 years,Females,death,130.691
+Rheumatic heart disease,2010,60-64 years,Females,death,198.942
+Rheumatic heart disease,2010,65-69 years,Females,death,240.22
+Rheumatic heart disease,2010,70-74 years,Females,death,344.367
+Rheumatic heart disease,2010,75-79 years,Females,death,477.853
+Rheumatic heart disease,2010,80+ years,Females,death,3036.79
+Rheumatic heart disease,2010,All ages,Females,death,4675.33
+Rheumatic heart disease,2010,5-14 years,Females,death,2.00803
+Ischemic heart disease,2010,Under 5 years,Males,death,78.3726
+Ischemic heart disease,2010,15-19 years,Males,death,89.2049
+Ischemic heart disease,2010,20-24 years,Males,death,181.092
+Ischemic heart disease,2010,25-29 years,Males,death,331.535
+Ischemic heart disease,2010,30-34 years,Males,death,638.509
+Ischemic heart disease,2010,35-39 years,Males,death,1365.57
+Ischemic heart disease,2010,40-44 years,Males,death,3421.43
+Ischemic heart disease,2010,45-49 years,Males,death,7377.23
+Ischemic heart disease,2010,50-54 years,Males,death,12928.6
+Ischemic heart disease,2010,55-59 years,Males,death,17015
+Ischemic heart disease,2010,60-64 years,Males,death,22533
+Ischemic heart disease,2010,65-69 years,Males,death,23723.5
+Ischemic heart disease,2010,70-74 years,Males,death,27125.6
+Ischemic heart disease,2010,75-79 years,Males,death,33542.6
+Ischemic heart disease,2010,80+ years,Males,death,127113
+Ischemic heart disease,2010,All ages,Males,death,277510
+Ischemic heart disease,2010,5-14 years,Males,death,45.1253
+Ischemic heart disease,2010,Under 5 years,Females,death,61.2144
+Ischemic heart disease,2010,15-19 years,Females,death,40.2646
+Ischemic heart disease,2010,20-24 years,Females,death,75.2132
+Ischemic heart disease,2010,25-29 years,Females,death,128.06
+Ischemic heart disease,2010,30-34 years,Females,death,244.036
+Ischemic heart disease,2010,35-39 years,Females,death,532.897
+Ischemic heart disease,2010,40-44 years,Females,death,1262.48
+Ischemic heart disease,2010,45-49 years,Females,death,2579.98
+Ischemic heart disease,2010,50-54 years,Females,death,4399.79
+Ischemic heart disease,2010,55-59 years,Females,death,6617.91
+Ischemic heart disease,2010,60-64 years,Females,death,10342.8
+Ischemic heart disease,2010,65-69 years,Females,death,12925.9
+Ischemic heart disease,2010,70-74 years,Females,death,17754.6
+Ischemic heart disease,2010,75-79 years,Females,death,26895.2
+Ischemic heart disease,2010,80+ years,Females,death,201486
+Ischemic heart disease,2010,All ages,Females,death,285377
+Ischemic heart disease,2010,5-14 years,Females,death,30.7429
+Stroke,2010,Under 5 years,Males,death,98.1626
+Stroke,2010,15-19 years,Males,death,43.5608
+Stroke,2010,20-24 years,Males,death,82.9442
+Stroke,2010,25-29 years,Males,death,112.579
+Stroke,2010,30-34 years,Males,death,177.429
+Stroke,2010,35-39 years,Males,death,323.626
+Stroke,2010,40-44 years,Males,death,662.945
+Stroke,2010,45-49 years,Males,death,1281.53
+Stroke,2010,50-54 years,Males,death,2044
+Stroke,2010,55-59 years,Males,death,2575.65
+Stroke,2010,60-64 years,Males,death,3577.17
+Stroke,2010,65-69 years,Males,death,4275.15
+Stroke,2010,70-74 years,Males,death,5753.33
+Stroke,2010,75-79 years,Males,death,8384.8
+Stroke,2010,80+ years,Males,death,36357.1
+Stroke,2010,All ages,Males,death,65791.6
+Stroke,2010,5-14 years,Males,death,41.6649
+Stroke,2010,Under 5 years,Females,death,74.9866
+Stroke,2010,15-19 years,Females,death,35.0611
+Stroke,2010,20-24 years,Females,death,60.2896
+Stroke,2010,25-29 years,Females,death,92.8211
+Stroke,2010,30-34 years,Females,death,161.567
+Stroke,2010,35-39 years,Females,death,306.073
+Stroke,2010,40-44 years,Females,death,650.052
+Stroke,2010,45-49 years,Females,death,1183.04
+Stroke,2010,50-54 years,Females,death,1692.35
+Stroke,2010,55-59 years,Females,death,2103.11
+Stroke,2010,60-64 years,Females,death,3029.69
+Stroke,2010,65-69 years,Females,death,3898.92
+Stroke,2010,70-74 years,Females,death,5853.95
+Stroke,2010,75-79 years,Females,death,9878.17
+Stroke,2010,80+ years,Females,death,77470.5
+Stroke,2010,All ages,Females,death,106528
+Stroke,2010,5-14 years,Females,death,37.3259
+Ischemic stroke,2010,Under 5 years,Males,death,42.1475
+Ischemic stroke,2010,15-19 years,Males,death,8.59294
+Ischemic stroke,2010,20-24 years,Males,death,13.7227
+Ischemic stroke,2010,25-29 years,Males,death,17.2437
+Ischemic stroke,2010,30-34 years,Males,death,27.9532
+Ischemic stroke,2010,35-39 years,Males,death,48.0274
+Ischemic stroke,2010,40-44 years,Males,death,101.964
+Ischemic stroke,2010,45-49 years,Males,death,219.393
+Ischemic stroke,2010,50-54 years,Males,death,395.848
+Ischemic stroke,2010,55-59 years,Males,death,654.459
+Ischemic stroke,2010,60-64 years,Males,death,1332.53
+Ischemic stroke,2010,65-69 years,Males,death,1845.25
+Ischemic stroke,2010,70-74 years,Males,death,3144.51
+Ischemic stroke,2010,75-79 years,Males,death,6071.95
+Ischemic stroke,2010,80+ years,Males,death,31186.7
+Ischemic stroke,2010,All ages,Males,death,45122.9
+Ischemic stroke,2010,5-14 years,Males,death,12.5538
+Ischemic stroke,2010,Under 5 years,Females,death,35.3175
+Ischemic stroke,2010,15-19 years,Females,death,6.96621
+Ischemic stroke,2010,20-24 years,Females,death,10.5891
+Ischemic stroke,2010,25-29 years,Females,death,14.787
+Ischemic stroke,2010,30-34 years,Females,death,22.7512
+Ischemic stroke,2010,35-39 years,Females,death,39.6006
+Ischemic stroke,2010,40-44 years,Females,death,79.1702
+Ischemic stroke,2010,45-49 years,Females,death,146.326
+Ischemic stroke,2010,50-54 years,Females,death,259.573
+Ischemic stroke,2010,55-59 years,Females,death,407.575
+Ischemic stroke,2010,60-64 years,Females,death,892.783
+Ischemic stroke,2010,65-69 years,Females,death,1571.99
+Ischemic stroke,2010,70-74 years,Females,death,2699.11
+Ischemic stroke,2010,75-79 years,Females,death,7160.24
+Ischemic stroke,2010,80+ years,Females,death,66981.4
+Ischemic stroke,2010,All ages,Females,death,80338.5
+Ischemic stroke,2010,5-14 years,Females,death,10.3644
+Hemorrhagic stroke,2010,Under 5 years,Males,death,56.0152
+Hemorrhagic stroke,2010,15-19 years,Males,death,34.9679
+Hemorrhagic stroke,2010,20-24 years,Males,death,69.2215
+Hemorrhagic stroke,2010,25-29 years,Males,death,95.3355
+Hemorrhagic stroke,2010,30-34 years,Males,death,149.476
+Hemorrhagic stroke,2010,35-39 years,Males,death,275.598
+Hemorrhagic stroke,2010,40-44 years,Males,death,560.981
+Hemorrhagic stroke,2010,45-49 years,Males,death,1062.14
+Hemorrhagic stroke,2010,50-54 years,Males,death,1648.16
+Hemorrhagic stroke,2010,55-59 years,Males,death,1921.19
+Hemorrhagic stroke,2010,60-64 years,Males,death,2244.64
+Hemorrhagic stroke,2010,65-69 years,Males,death,2429.9
+Hemorrhagic stroke,2010,70-74 years,Males,death,2608.83
+Hemorrhagic stroke,2010,75-79 years,Males,death,2312.85
+Hemorrhagic stroke,2010,80+ years,Males,death,5170.35
+Hemorrhagic stroke,2010,All ages,Males,death,20668.8
+Hemorrhagic stroke,2010,5-14 years,Males,death,29.111
+Hemorrhagic stroke,2010,Under 5 years,Females,death,39.6691
+Hemorrhagic stroke,2010,15-19 years,Females,death,28.0949
+Hemorrhagic stroke,2010,20-24 years,Females,death,49.7005
+Hemorrhagic stroke,2010,25-29 years,Females,death,78.0342
+Hemorrhagic stroke,2010,30-34 years,Females,death,138.815
+Hemorrhagic stroke,2010,35-39 years,Females,death,266.473
+Hemorrhagic stroke,2010,40-44 years,Females,death,570.882
+Hemorrhagic stroke,2010,45-49 years,Females,death,1036.71
+Hemorrhagic stroke,2010,50-54 years,Females,death,1432.78
+Hemorrhagic stroke,2010,55-59 years,Females,death,1695.54
+Hemorrhagic stroke,2010,60-64 years,Females,death,2136.91
+Hemorrhagic stroke,2010,65-69 years,Females,death,2326.93
+Hemorrhagic stroke,2010,70-74 years,Females,death,3154.84
+Hemorrhagic stroke,2010,75-79 years,Females,death,2717.93
+Hemorrhagic stroke,2010,80+ years,Females,death,10489.1
+Hemorrhagic stroke,2010,All ages,Females,death,26189.4
+Hemorrhagic stroke,2010,5-14 years,Females,death,26.9615
+Hypertensive heart disease,2010,Under 5 years,Males,death,11.8176
+Hypertensive heart disease,2010,15-19 years,Males,death,12.8289
+Hypertensive heart disease,2010,20-24 years,Males,death,35.1251
+Hypertensive heart disease,2010,25-29 years,Males,death,71.2769
+Hypertensive heart disease,2010,30-34 years,Males,death,126.124
+Hypertensive heart disease,2010,35-39 years,Males,death,246.757
+Hypertensive heart disease,2010,40-44 years,Males,death,504.316
+Hypertensive heart disease,2010,45-49 years,Males,death,952.239
+Hypertensive heart disease,2010,50-54 years,Males,death,1394.95
+Hypertensive heart disease,2010,55-59 years,Males,death,1569.43
+Hypertensive heart disease,2010,60-64 years,Males,death,1729.7
+Hypertensive heart disease,2010,65-69 years,Males,death,1572.93
+Hypertensive heart disease,2010,70-74 years,Males,death,1538.41
+Hypertensive heart disease,2010,75-79 years,Males,death,1749.32
+Hypertensive heart disease,2010,80+ years,Males,death,6812.66
+Hypertensive heart disease,2010,All ages,Males,death,18333.9
+Hypertensive heart disease,2010,5-14 years,Males,death,5.98932
+Hypertensive heart disease,2010,Under 5 years,Females,death,6.95082
+Hypertensive heart disease,2010,15-19 years,Females,death,3.72049
+Hypertensive heart disease,2010,20-24 years,Females,death,8.90557
+Hypertensive heart disease,2010,25-29 years,Females,death,19.5044
+Hypertensive heart disease,2010,30-34 years,Females,death,39.2142
+Hypertensive heart disease,2010,35-39 years,Females,death,86.3911
+Hypertensive heart disease,2010,40-44 years,Females,death,221.265
+Hypertensive heart disease,2010,45-49 years,Females,death,433.441
+Hypertensive heart disease,2010,50-54 years,Females,death,635.956
+Hypertensive heart disease,2010,55-59 years,Females,death,815.33
+Hypertensive heart disease,2010,60-64 years,Females,death,1083.4
+Hypertensive heart disease,2010,65-69 years,Females,death,1233.15
+Hypertensive heart disease,2010,70-74 years,Females,death,1599.64
+Hypertensive heart disease,2010,75-79 years,Females,death,2356.76
+Hypertensive heart disease,2010,80+ years,Females,death,17829.4
+Hypertensive heart disease,2010,All ages,Females,death,26376.1
+Hypertensive heart disease,2010,5-14 years,Females,death,3.04993
+COPD,2010,Under 5 years,Males,death,30.0612
+COPD,2010,15-19 years,Males,death,7.34941
+COPD,2010,20-24 years,Males,death,12.5735
+COPD,2010,25-29 years,Males,death,16.0866
+COPD,2010,30-34 years,Males,death,20.7479
+COPD,2010,35-39 years,Males,death,50.2813
+COPD,2010,40-44 years,Males,death,163.247
+COPD,2010,45-49 years,Males,death,524.328
+COPD,2010,50-54 years,Males,death,1331.76
+COPD,2010,55-59 years,Males,death,2469.6
+COPD,2010,60-64 years,Males,death,4774.79
+COPD,2010,65-69 years,Males,death,6879.78
+COPD,2010,70-74 years,Males,death,9290.76
+COPD,2010,75-79 years,Males,death,11940.6
+COPD,2010,80+ years,Males,death,34914.6
+COPD,2010,All ages,Males,death,72433.4
+COPD,2010,5-14 years,Males,death,6.82327
+COPD,2010,Under 5 years,Females,death,18.2055
+COPD,2010,15-19 years,Females,death,6.2797
+COPD,2010,20-24 years,Females,death,7.55659
+COPD,2010,25-29 years,Females,death,13.5298
+COPD,2010,30-34 years,Females,death,21.868
+COPD,2010,35-39 years,Females,death,45.3002
+COPD,2010,40-44 years,Females,death,178.139
+COPD,2010,45-49 years,Females,death,538.496
+COPD,2010,50-54 years,Females,death,1240.61
+COPD,2010,55-59 years,Females,death,2295.48
+COPD,2010,60-64 years,Females,death,4562.98
+COPD,2010,65-69 years,Females,death,6735.71
+COPD,2010,70-74 years,Females,death,9160.88
+COPD,2010,75-79 years,Females,death,11752.9
+COPD,2010,80+ years,Females,death,45477.3
+COPD,2010,All ages,Females,death,82061
+COPD,2010,5-14 years,Females,death,5.75799
+Asthma,2010,Under 5 years,Males,death,21.6835
+Asthma,2010,15-19 years,Males,death,40.7902
+Asthma,2010,20-24 years,Males,death,48.9169
+Asthma,2010,25-29 years,Males,death,50.0554
+Asthma,2010,30-34 years,Males,death,43.4786
+Asthma,2010,35-39 years,Males,death,51.8254
+Asthma,2010,40-44 years,Males,death,67.3708
+Asthma,2010,45-49 years,Males,death,97.0666
+Asthma,2010,50-54 years,Males,death,118.825
+Asthma,2010,55-59 years,Males,death,108.671
+Asthma,2010,60-64 years,Males,death,113.033
+Asthma,2010,65-69 years,Males,death,110.505
+Asthma,2010,70-74 years,Males,death,101.914
+Asthma,2010,75-79 years,Males,death,110.518
+Asthma,2010,80+ years,Males,death,357.268
+Asthma,2010,All ages,Males,death,1503.35
+Asthma,2010,5-14 years,Males,death,61.4293
+Asthma,2010,Under 5 years,Females,death,15.0853
+Asthma,2010,15-19 years,Females,death,27.9758
+Asthma,2010,20-24 years,Females,death,31.1086
+Asthma,2010,25-29 years,Females,death,33.2662
+Asthma,2010,30-34 years,Females,death,43.1831
+Asthma,2010,35-39 years,Females,death,59.9704
+Asthma,2010,40-44 years,Females,death,96.6322
+Asthma,2010,45-49 years,Females,death,151.983
+Asthma,2010,50-54 years,Females,death,180.01
+Asthma,2010,55-59 years,Females,death,174.741
+Asthma,2010,60-64 years,Females,death,184.359
+Asthma,2010,65-69 years,Females,death,161.335
+Asthma,2010,70-74 years,Females,death,171.161
+Asthma,2010,75-79 years,Females,death,185.752
+Asthma,2010,80+ years,Females,death,940.935
+Asthma,2010,All ages,Females,death,2492.27
+Asthma,2010,5-14 years,Females,death,34.7758
+Other respiratory diseases,2010,Under 5 years,Males,death,133.685
+Other respiratory diseases,2010,15-19 years,Males,death,12.9299
+Other respiratory diseases,2010,20-24 years,Males,death,14.0384
+Other respiratory diseases,2010,25-29 years,Males,death,11.2931
+Other respiratory diseases,2010,30-34 years,Males,death,14.4478
+Other respiratory diseases,2010,35-39 years,Males,death,19.9853
+Other respiratory diseases,2010,40-44 years,Males,death,35.9184
+Other respiratory diseases,2010,45-49 years,Males,death,58.9939
+Other respiratory diseases,2010,50-54 years,Males,death,98.4861
+Other respiratory diseases,2010,55-59 years,Males,death,135.98
+Other respiratory diseases,2010,60-64 years,Males,death,211.587
+Other respiratory diseases,2010,65-69 years,Males,death,253.604
+Other respiratory diseases,2010,70-74 years,Males,death,295.823
+Other respiratory diseases,2010,75-79 years,Males,death,378.575
+Other respiratory diseases,2010,80+ years,Males,death,1209.51
+Other respiratory diseases,2010,All ages,Males,death,2901.22
+Other respiratory diseases,2010,5-14 years,Males,death,16.3585
+Other respiratory diseases,2010,Under 5 years,Females,death,89.8765
+Other respiratory diseases,2010,15-19 years,Females,death,8.32628
+Other respiratory diseases,2010,20-24 years,Females,death,9.67169
+Other respiratory diseases,2010,25-29 years,Females,death,10.2427
+Other respiratory diseases,2010,30-34 years,Females,death,13.7178
+Other respiratory diseases,2010,35-39 years,Females,death,18.4705
+Other respiratory diseases,2010,40-44 years,Females,death,30.211
+Other respiratory diseases,2010,45-49 years,Females,death,52.1622
+Other respiratory diseases,2010,50-54 years,Females,death,87.2294
+Other respiratory diseases,2010,55-59 years,Females,death,118.665
+Other respiratory diseases,2010,60-64 years,Females,death,188.085
+Other respiratory diseases,2010,65-69 years,Females,death,210.136
+Other respiratory diseases,2010,70-74 years,Females,death,256.18
+Other respiratory diseases,2010,75-79 years,Females,death,335.832
+Other respiratory diseases,2010,80+ years,Females,death,1663.77
+Other respiratory diseases,2010,All ages,Females,death,3104.54
+Other respiratory diseases,2010,5-14 years,Females,death,11.9597
+Alzheimers disease,2010,15-19 years,Males,death,6.79793
+Alzheimers disease,2010,20-24 years,Males,death,6.63738
+Alzheimers disease,2010,25-29 years,Males,death,5.62822
+Alzheimers disease,2010,30-34 years,Males,death,6.58873
+Alzheimers disease,2010,35-39 years,Males,death,10.6389
+Alzheimers disease,2010,40-44 years,Males,death,23.459
+Alzheimers disease,2010,45-49 years,Males,death,51.788
+Alzheimers disease,2010,50-54 years,Males,death,137.537
+Alzheimers disease,2010,55-59 years,Males,death,332.293
+Alzheimers disease,2010,60-64 years,Males,death,781.533
+Alzheimers disease,2010,65-69 years,Males,death,1464.89
+Alzheimers disease,2010,70-74 years,Males,death,3177.27
+Alzheimers disease,2010,75-79 years,Males,death,6500.75
+Alzheimers disease,2010,80+ years,Males,death,38971.6
+Alzheimers disease,2010,All ages,Males,death,51496.8
+Alzheimers disease,2010,5-14 years,Males,death,19.4324
+Alzheimers disease,2010,15-19 years,Females,death,4.93537
+Alzheimers disease,2010,20-24 years,Females,death,4.59232
+Alzheimers disease,2010,25-29 years,Females,death,3.85687
+Alzheimers disease,2010,30-34 years,Females,death,5.80927
+Alzheimers disease,2010,35-39 years,Females,death,9.21666
+Alzheimers disease,2010,40-44 years,Females,death,16.9774
+Alzheimers disease,2010,45-49 years,Females,death,47.6836
+Alzheimers disease,2010,50-54 years,Females,death,120.339
+Alzheimers disease,2010,55-59 years,Females,death,317.472
+Alzheimers disease,2010,60-64 years,Females,death,741.496
+Alzheimers disease,2010,65-69 years,Females,death,1441.17
+Alzheimers disease,2010,70-74 years,Females,death,3376.04
+Alzheimers disease,2010,75-79 years,Females,death,8097.36
+Alzheimers disease,2010,80+ years,Females,death,92582.4
+Alzheimers disease,2010,All ages,Females,death,106784
+Alzheimers disease,2010,5-14 years,Females,death,15.0872
+Diabetes,2010,Under 5 years,Males,death,13.9099
+Diabetes,2010,15-19 years,Males,death,25.9951
+Diabetes,2010,20-24 years,Males,death,68.6674
+Diabetes,2010,25-29 years,Males,death,142.316
+Diabetes,2010,30-34 years,Males,death,242.893
+Diabetes,2010,35-39 years,Males,death,402.911
+Diabetes,2010,40-44 years,Males,death,743.04
+Diabetes,2010,45-49 years,Males,death,1377.9
+Diabetes,2010,50-54 years,Males,death,2250.4
+Diabetes,2010,55-59 years,Males,death,3181.99
+Diabetes,2010,60-64 years,Males,death,4274.84
+Diabetes,2010,65-69 years,Males,death,4525.76
+Diabetes,2010,70-74 years,Males,death,4914.36
+Diabetes,2010,75-79 years,Males,death,5291.23
+Diabetes,2010,80+ years,Males,death,13867.2
+Diabetes,2010,All ages,Males,death,41336.8
+Diabetes,2010,5-14 years,Males,death,13.4093
+Diabetes,2010,Under 5 years,Females,death,12.4541
+Diabetes,2010,15-19 years,Females,death,21.7304
+Diabetes,2010,20-24 years,Females,death,53.9391
+Diabetes,2010,25-29 years,Females,death,103.792
+Diabetes,2010,30-34 years,Females,death,170.45
+Diabetes,2010,35-39 years,Females,death,266.807
+Diabetes,2010,40-44 years,Females,death,475.154
+Diabetes,2010,45-49 years,Females,death,863.901
+Diabetes,2010,50-54 years,Females,death,1514.44
+Diabetes,2010,55-59 years,Females,death,2301.01
+Diabetes,2010,60-64 years,Females,death,3254.1
+Diabetes,2010,65-69 years,Females,death,3822.58
+Diabetes,2010,70-74 years,Females,death,4456.15
+Diabetes,2010,75-79 years,Females,death,5507.79
+Diabetes,2010,80+ years,Females,death,21881.3
+Diabetes,2010,All ages,Females,death,44719.8
+Diabetes,2010,5-14 years,Females,death,14.1399
+Road injury,2010,Under 5 years,Males,death,422.723
+Road injury,2010,15-19 years,Males,death,2930.84
+Road injury,2010,20-24 years,Males,death,4119.03
+Road injury,2010,25-29 years,Males,death,2783.18
+Road injury,2010,30-34 years,Males,death,1948.5
+Road injury,2010,35-39 years,Males,death,1751.62
+Road injury,2010,40-44 years,Males,death,1985.45
+Road injury,2010,45-49 years,Males,death,2266.56
+Road injury,2010,50-54 years,Males,death,2198.28
+Road injury,2010,55-59 years,Males,death,1785.86
+Road injury,2010,60-64 years,Males,death,1561.85
+Road injury,2010,65-69 years,Males,death,1171.5
+Road injury,2010,70-74 years,Males,death,1053.93
+Road injury,2010,75-79 years,Males,death,1028.69
+Road injury,2010,80+ years,Males,death,2254.78
+Road injury,2010,All ages,Males,death,29950.8
+Road injury,2010,5-14 years,Males,death,688.033
+Road injury,2010,Under 5 years,Females,death,326.563
+Road injury,2010,15-19 years,Females,death,1385.34
+Road injury,2010,20-24 years,Females,death,1195.3
+Road injury,2010,25-29 years,Females,death,804.085
+Road injury,2010,30-34 years,Females,death,662.834
+Road injury,2010,35-39 years,Females,death,707.568
+Road injury,2010,40-44 years,Females,death,835.309
+Road injury,2010,45-49 years,Females,death,937.498
+Road injury,2010,50-54 years,Females,death,880.353
+Road injury,2010,55-59 years,Females,death,850.111
+Road injury,2010,60-64 years,Females,death,857.579
+Road injury,2010,65-69 years,Females,death,744.146
+Road injury,2010,70-74 years,Females,death,733.436
+Road injury,2010,75-79 years,Females,death,759.322
+Road injury,2010,80+ years,Females,death,1916.67
+Road injury,2010,All ages,Females,death,14050.3
+Road injury,2010,5-14 years,Females,death,454.237
+Pedestrian road injury,2010,Under 5 years,Males,death,176.81
+Pedestrian road injury,2010,15-19 years,Males,death,196.19
+Pedestrian road injury,2010,20-24 years,Males,death,289.035
+Pedestrian road injury,2010,25-29 years,Males,death,242.324
+Pedestrian road injury,2010,30-34 years,Males,death,209.293
+Pedestrian road injury,2010,35-39 years,Males,death,219.69
+Pedestrian road injury,2010,40-44 years,Males,death,282.435
+Pedestrian road injury,2010,45-49 years,Males,death,354.374
+Pedestrian road injury,2010,50-54 years,Males,death,372.718
+Pedestrian road injury,2010,55-59 years,Males,death,291.225
+Pedestrian road injury,2010,60-64 years,Males,death,262.595
+Pedestrian road injury,2010,65-69 years,Males,death,218.098
+Pedestrian road injury,2010,70-74 years,Males,death,202.588
+Pedestrian road injury,2010,75-79 years,Males,death,203.335
+Pedestrian road injury,2010,80+ years,Males,death,468.881
+Pedestrian road injury,2010,All ages,Males,death,4174.23
+Pedestrian road injury,2010,5-14 years,Males,death,184.637
+Pedestrian road injury,2010,Under 5 years,Females,death,105.28
+Pedestrian road injury,2010,15-19 years,Females,death,88.5783
+Pedestrian road injury,2010,20-24 years,Females,death,90.795
+Pedestrian road injury,2010,25-29 years,Females,death,75.9149
+Pedestrian road injury,2010,30-34 years,Females,death,73.1376
+Pedestrian road injury,2010,35-39 years,Females,death,85.1908
+Pedestrian road injury,2010,40-44 years,Females,death,116.328
+Pedestrian road injury,2010,45-49 years,Females,death,133.877
+Pedestrian road injury,2010,50-54 years,Females,death,123.889
+Pedestrian road injury,2010,55-59 years,Females,death,138.113
+Pedestrian road injury,2010,60-64 years,Females,death,136.197
+Pedestrian road injury,2010,65-69 years,Females,death,134.765
+Pedestrian road injury,2010,70-74 years,Females,death,130.786
+Pedestrian road injury,2010,75-79 years,Females,death,145.905
+Pedestrian road injury,2010,80+ years,Females,death,375.849
+Pedestrian road injury,2010,All ages,Females,death,2050.15
+Pedestrian road injury,2010,5-14 years,Females,death,95.5433
+Other road injury,2010,Under 5 years,Males,death,2.32655
+Other road injury,2010,15-19 years,Males,death,2.51181
+Other road injury,2010,20-24 years,Males,death,3.07559
+Other road injury,2010,25-29 years,Males,death,2.61521
+Other road injury,2010,30-34 years,Males,death,1.92114
+Other road injury,2010,35-39 years,Males,death,2.61671
+Other road injury,2010,40-44 years,Males,death,3.23411
+Other road injury,2010,45-49 years,Males,death,5.15914
+Other road injury,2010,50-54 years,Males,death,5.83055
+Other road injury,2010,55-59 years,Males,death,5.96896
+Other road injury,2010,60-64 years,Males,death,5.71845
+Other road injury,2010,65-69 years,Males,death,5.82352
+Other road injury,2010,70-74 years,Males,death,5.12315
+Other road injury,2010,75-79 years,Males,death,3.17842
+Other road injury,2010,80+ years,Males,death,4.81568
+Other road injury,2010,All ages,Males,death,64.0335
+Other road injury,2010,5-14 years,Males,death,4.1145
+Other road injury,2010,Under 5 years,Females,death,1.61062
+Other road injury,2010,15-19 years,Females,death,1.78749
+Other road injury,2010,20-24 years,Females,death,1.7825
+Other road injury,2010,25-29 years,Females,death,1.37008
+Other road injury,2010,30-34 years,Females,death,1.45313
+Other road injury,2010,35-39 years,Females,death,2.01258
+Other road injury,2010,40-44 years,Females,death,2.17968
+Other road injury,2010,45-49 years,Females,death,3.24798
+Other road injury,2010,50-54 years,Females,death,4.00101
+Other road injury,2010,55-59 years,Females,death,3.74385
+Other road injury,2010,60-64 years,Females,death,3.78922
+Other road injury,2010,65-69 years,Females,death,2.86611
+Other road injury,2010,70-74 years,Females,death,1.77145
+Other road injury,2010,75-79 years,Females,death,1.65556
+Other road injury,2010,80+ years,Females,death,3.00069
+Other road injury,2010,All ages,Females,death,39.6698
+Other road injury,2010,5-14 years,Females,death,3.39789
+Lower respiratory infections,2010,Under 5 years,Males,daly,34096.6
+Lower respiratory infections,2010,15-19 years,Males,daly,4535.3
+Lower respiratory infections,2010,20-24 years,Males,daly,7193.33
+Lower respiratory infections,2010,25-29 years,Males,daly,8299.88
+Lower respiratory infections,2010,30-34 years,Males,daly,9116.06
+Lower respiratory infections,2010,35-39 years,Males,daly,11918.8
+Lower respiratory infections,2010,40-44 years,Males,daly,18949.1
+Lower respiratory infections,2010,45-49 years,Males,daly,27211.3
+Lower respiratory infections,2010,50-54 years,Males,daly,36161.8
+Lower respiratory infections,2010,55-59 years,Males,daly,40763.8
+Lower respiratory infections,2010,60-64 years,Males,daly,46920.2
+Lower respiratory infections,2010,65-69 years,Males,daly,46765.9
+Lower respiratory infections,2010,70-74 years,Males,daly,52379.7
+Lower respiratory infections,2010,75-79 years,Males,daly,60175.7
+Lower respiratory infections,2010,80+ years,Males,daly,156823
+Lower respiratory infections,2010,All ages,Males,daly,568525
+Lower respiratory infections,2010,5-14 years,Males,daly,7215.46
+Lower respiratory infections,2010,Under 5 years,Females,daly,26856.4
+Lower respiratory infections,2010,15-19 years,Females,daly,4026.38
+Lower respiratory infections,2010,20-24 years,Females,daly,5681.02
+Lower respiratory infections,2010,25-29 years,Females,daly,6570.62
+Lower respiratory infections,2010,30-34 years,Females,daly,7744.01
+Lower respiratory infections,2010,35-39 years,Females,daly,10472.7
+Lower respiratory infections,2010,40-44 years,Females,daly,15640.8
+Lower respiratory infections,2010,45-49 years,Females,daly,22337.2
+Lower respiratory infections,2010,50-54 years,Females,daly,27775.8
+Lower respiratory infections,2010,55-59 years,Females,daly,31340.5
+Lower respiratory infections,2010,60-64 years,Females,daly,36743.1
+Lower respiratory infections,2010,65-69 years,Females,daly,37194.6
+Lower respiratory infections,2010,70-74 years,Females,daly,42678.7
+Lower respiratory infections,2010,75-79 years,Females,daly,52041
+Lower respiratory infections,2010,80+ years,Females,daly,190208
+Lower respiratory infections,2010,All ages,Females,daly,524505
+Lower respiratory infections,2010,5-14 years,Females,daly,7193.92
+Upper respiratory infections,2010,Under 5 years,Males,daly,2698.63
+Upper respiratory infections,2010,15-19 years,Males,daly,2533.79
+Upper respiratory infections,2010,20-24 years,Males,daly,1782.06
+Upper respiratory infections,2010,25-29 years,Males,daly,1890.37
+Upper respiratory infections,2010,30-34 years,Males,daly,1852.78
+Upper respiratory infections,2010,35-39 years,Males,daly,1902.06
+Upper respiratory infections,2010,40-44 years,Males,daly,2112.8
+Upper respiratory infections,2010,45-49 years,Males,daly,2236.86
+Upper respiratory infections,2010,50-54 years,Males,daly,1903.22
+Upper respiratory infections,2010,55-59 years,Males,daly,1387.05
+Upper respiratory infections,2010,60-64 years,Males,daly,975.124
+Upper respiratory infections,2010,65-69 years,Males,daly,661.529
+Upper respiratory infections,2010,70-74 years,Males,daly,622.931
+Upper respiratory infections,2010,75-79 years,Males,daly,579.348
+Upper respiratory infections,2010,80+ years,Males,daly,1065.01
+Upper respiratory infections,2010,All ages,Males,daly,31611.6
+Upper respiratory infections,2010,5-14 years,Males,daly,7408.06
+Upper respiratory infections,2010,Under 5 years,Females,daly,2523.31
+Upper respiratory infections,2010,15-19 years,Females,daly,2528.26
+Upper respiratory infections,2010,20-24 years,Females,daly,1850
+Upper respiratory infections,2010,25-29 years,Females,daly,1920.98
+Upper respiratory infections,2010,30-34 years,Females,daly,1905.68
+Upper respiratory infections,2010,35-39 years,Females,daly,1959.91
+Upper respiratory infections,2010,40-44 years,Females,daly,2170.05
+Upper respiratory infections,2010,45-49 years,Females,daly,2323
+Upper respiratory infections,2010,50-54 years,Females,daly,1967.67
+Upper respiratory infections,2010,55-59 years,Females,daly,1436.54
+Upper respiratory infections,2010,60-64 years,Females,daly,996.497
+Upper respiratory infections,2010,65-69 years,Females,daly,699.093
+Upper respiratory infections,2010,70-74 years,Females,daly,701.992
+Upper respiratory infections,2010,75-79 years,Females,daly,722.934
+Upper respiratory infections,2010,80+ years,Females,daly,1781.91
+Upper respiratory infections,2010,All ages,Females,daly,32623.7
+Upper respiratory infections,2010,5-14 years,Females,daly,7135.89
+Lung cancer,2010,15-19 years,Males,daly,387.859
+Lung cancer,2010,20-24 years,Males,daly,890.756
+Lung cancer,2010,25-29 years,Males,daly,1725.11
+Lung cancer,2010,30-34 years,Males,daly,3714.4
+Lung cancer,2010,35-39 years,Males,daly,9424.71
+Lung cancer,2010,40-44 years,Males,daly,31379.6
+Lung cancer,2010,45-49 years,Males,daly,86219.1
+Lung cancer,2010,50-54 years,Males,daly,173372
+Lung cancer,2010,55-59 years,Males,daly,244112
+Lung cancer,2010,60-64 years,Males,daly,316277
+Lung cancer,2010,65-69 years,Males,daly,300734
+Lung cancer,2010,70-74 years,Males,daly,242996
+Lung cancer,2010,75-79 years,Males,daly,180068
+Lung cancer,2010,80+ years,Males,daly,142194
+Lung cancer,2010,All ages,Males,daly,1733500
+Lung cancer,2010,15-19 years,Females,daly,234.062
+Lung cancer,2010,20-24 years,Females,daly,678.576
+Lung cancer,2010,25-29 years,Females,daly,1448.03
+Lung cancer,2010,30-34 years,Females,daly,3754.83
+Lung cancer,2010,35-39 years,Females,daly,10074.9
+Lung cancer,2010,40-44 years,Females,daly,31427.2
+Lung cancer,2010,45-49 years,Females,daly,78813
+Lung cancer,2010,50-54 years,Females,daly,130416
+Lung cancer,2010,55-59 years,Females,daly,174509
+Lung cancer,2010,60-64 years,Females,daly,227093
+Lung cancer,2010,65-69 years,Females,daly,219471
+Lung cancer,2010,70-74 years,Females,daly,179951
+Lung cancer,2010,75-79 years,Females,daly,135493
+Lung cancer,2010,80+ years,Females,daly,106014
+Lung cancer,2010,All ages,Females,daly,1299380
+Breast cancer,2010,15-19 years,Females,daly,108.085
+Breast cancer,2010,20-24 years,Females,daly,988.211
+Breast cancer,2010,25-29 years,Females,daly,4869.14
+Breast cancer,2010,30-34 years,Females,daly,16792.8
+Breast cancer,2010,35-39 years,Females,daly,38285.1
+Breast cancer,2010,40-44 years,Females,daly,69867.1
+Breast cancer,2010,45-49 years,Females,daly,111579
+Breast cancer,2010,50-54 years,Females,daly,142300
+Breast cancer,2010,55-59 years,Females,daly,149421
+Breast cancer,2010,60-64 years,Females,daly,149369
+Breast cancer,2010,65-69 years,Females,daly,113643
+Breast cancer,2010,70-74 years,Females,daly,86891.9
+Breast cancer,2010,75-79 years,Females,daly,70576.9
+Breast cancer,2010,80+ years,Females,daly,98258.2
+Breast cancer,2010,All ages,Females,daly,1052950
+Colorectal cancer,2010,15-19 years,Males,daly,704.41
+Colorectal cancer,2010,20-24 years,Males,daly,1727.4
+Colorectal cancer,2010,25-29 years,Males,daly,4027.18
+Colorectal cancer,2010,30-34 years,Males,daly,6423.86
+Colorectal cancer,2010,35-39 years,Males,daly,11060.3
+Colorectal cancer,2010,40-44 years,Males,daly,21467.7
+Colorectal cancer,2010,45-49 years,Males,daly,41985.9
+Colorectal cancer,2010,50-54 years,Males,daly,65694.2
+Colorectal cancer,2010,55-59 years,Males,daly,82107.5
+Colorectal cancer,2010,60-64 years,Males,daly,94608.8
+Colorectal cancer,2010,65-69 years,Males,daly,85257.9
+Colorectal cancer,2010,70-74 years,Males,daly,73749.1
+Colorectal cancer,2010,75-79 years,Males,daly,59460.1
+Colorectal cancer,2010,80+ years,Males,daly,70067.4
+Colorectal cancer,2010,All ages,Males,daly,618342
+Colorectal cancer,2010,15-19 years,Females,daly,391.348
+Colorectal cancer,2010,20-24 years,Females,daly,1098.05
+Colorectal cancer,2010,25-29 years,Females,daly,2763.34
+Colorectal cancer,2010,30-34 years,Females,daly,5550.58
+Colorectal cancer,2010,35-39 years,Females,daly,9574.24
+Colorectal cancer,2010,40-44 years,Females,daly,18987.8
+Colorectal cancer,2010,45-49 years,Females,daly,34497.8
+Colorectal cancer,2010,50-54 years,Females,daly,52659.6
+Colorectal cancer,2010,55-59 years,Females,daly,62467.2
+Colorectal cancer,2010,60-64 years,Females,daly,69707
+Colorectal cancer,2010,65-69 years,Females,daly,64958.8
+Colorectal cancer,2010,70-74 years,Females,daly,60490.7
+Colorectal cancer,2010,75-79 years,Females,daly,56354
+Colorectal cancer,2010,80+ years,Females,daly,88991.6
+Colorectal cancer,2010,All ages,Females,daly,528492
+Rheumatic heart disease,2010,Under 5 years,Males,daly,226.184
+Rheumatic heart disease,2010,15-19 years,Males,daly,1377.41
+Rheumatic heart disease,2010,20-24 years,Males,daly,1563.66
+Rheumatic heart disease,2010,25-29 years,Males,daly,1794.17
+Rheumatic heart disease,2010,30-34 years,Males,daly,1825.53
+Rheumatic heart disease,2010,35-39 years,Males,daly,1913.62
+Rheumatic heart disease,2010,40-44 years,Males,daly,2388.57
+Rheumatic heart disease,2010,45-49 years,Males,daly,3399.92
+Rheumatic heart disease,2010,50-54 years,Males,daly,3690.07
+Rheumatic heart disease,2010,55-59 years,Males,daly,3962.68
+Rheumatic heart disease,2010,60-64 years,Males,daly,4264.6
+Rheumatic heart disease,2010,65-69 years,Males,daly,3923.49
+Rheumatic heart disease,2010,70-74 years,Males,daly,3918.72
+Rheumatic heart disease,2010,75-79 years,Males,daly,4262.65
+Rheumatic heart disease,2010,80+ years,Males,daly,8634.28
+Rheumatic heart disease,2010,All ages,Males,daly,49031
+Rheumatic heart disease,2010,5-14 years,Males,daly,1885.42
+Rheumatic heart disease,2010,Under 5 years,Females,daly,214.757
+Rheumatic heart disease,2010,15-19 years,Females,daly,1644.9
+Rheumatic heart disease,2010,20-24 years,Females,daly,1945.4
+Rheumatic heart disease,2010,25-29 years,Females,daly,2092.39
+Rheumatic heart disease,2010,30-34 years,Females,daly,2102.06
+Rheumatic heart disease,2010,35-39 years,Females,daly,2381.47
+Rheumatic heart disease,2010,40-44 years,Females,daly,3291.24
+Rheumatic heart disease,2010,45-49 years,Females,daly,4313.23
+Rheumatic heart disease,2010,50-54 years,Females,daly,4596.74
+Rheumatic heart disease,2010,55-59 years,Females,daly,5382.5
+Rheumatic heart disease,2010,60-64 years,Females,daly,6447.64
+Rheumatic heart disease,2010,65-69 years,Females,daly,6194.34
+Rheumatic heart disease,2010,70-74 years,Females,daly,6843.07
+Rheumatic heart disease,2010,75-79 years,Females,daly,7397.65
+Rheumatic heart disease,2010,80+ years,Females,daly,20203.6
+Rheumatic heart disease,2010,All ages,Females,daly,77502.5
+Rheumatic heart disease,2010,5-14 years,Females,daly,2451.47
+Ischemic heart disease,2010,Under 5 years,Males,daly,6716.12
+Ischemic heart disease,2010,15-19 years,Males,daly,6787.36
+Ischemic heart disease,2010,20-24 years,Males,daly,13380.4
+Ischemic heart disease,2010,25-29 years,Males,daly,23204.5
+Ischemic heart disease,2010,30-34 years,Males,daly,39981.8
+Ischemic heart disease,2010,35-39 years,Males,daly,74831.4
+Ischemic heart disease,2010,40-44 years,Males,daly,163076
+Ischemic heart disease,2010,45-49 years,Males,daly,310989
+Ischemic heart disease,2010,50-54 years,Males,daly,479157
+Ischemic heart disease,2010,55-59 years,Males,daly,551571
+Ischemic heart disease,2010,60-64 years,Males,daly,621352
+Ischemic heart disease,2010,65-69 years,Males,daly,542128
+Ischemic heart disease,2010,70-74 years,Males,daly,494676
+Ischemic heart disease,2010,75-79 years,Males,daly,470586
+Ischemic heart disease,2010,80+ years,Males,daly,876570
+Ischemic heart disease,2010,All ages,Males,daly,4678650
+Ischemic heart disease,2010,5-14 years,Males,daly,3647.98
+Ischemic heart disease,2010,Under 5 years,Females,daly,5219.47
+Ischemic heart disease,2010,15-19 years,Females,daly,3184.67
+Ischemic heart disease,2010,20-24 years,Females,daly,6001.07
+Ischemic heart disease,2010,25-29 years,Females,daly,9957.87
+Ischemic heart disease,2010,30-34 years,Females,daly,17074.3
+Ischemic heart disease,2010,35-39 years,Females,daly,32049.1
+Ischemic heart disease,2010,40-44 years,Females,daly,65105.4
+Ischemic heart disease,2010,45-49 years,Females,daly,117595
+Ischemic heart disease,2010,50-54 years,Females,daly,176527
+Ischemic heart disease,2010,55-59 years,Females,daly,230365
+Ischemic heart disease,2010,60-64 years,Females,daly,300496
+Ischemic heart disease,2010,65-69 years,Females,daly,305867
+Ischemic heart disease,2010,70-74 years,Females,daly,329949
+Ischemic heart disease,2010,75-79 years,Females,daly,380650
+Ischemic heart disease,2010,80+ years,Females,daly,1188380
+Ischemic heart disease,2010,All ages,Females,daly,3170890
+Ischemic heart disease,2010,5-14 years,Females,daly,2463.41
+Stroke,2010,Under 5 years,Males,daly,8397.48
+Stroke,2010,15-19 years,Males,daly,4106.58
+Stroke,2010,20-24 years,Males,daly,7037.99
+Stroke,2010,25-29 years,Males,daly,9238.34
+Stroke,2010,30-34 years,Males,daly,13144.9
+Stroke,2010,35-39 years,Males,daly,21061.2
+Stroke,2010,40-44 years,Males,daly,36620
+Stroke,2010,45-49 years,Males,daly,62943.8
+Stroke,2010,50-54 years,Males,daly,90264.2
+Stroke,2010,55-59 years,Males,daly,105118
+Stroke,2010,60-64 years,Males,daly,124601
+Stroke,2010,65-69 years,Males,daly,125149
+Stroke,2010,70-74 years,Males,daly,132398
+Stroke,2010,75-79 years,Males,daly,150706
+Stroke,2010,80+ years,Males,daly,300956
+Stroke,2010,All ages,Males,daly,1195660
+Stroke,2010,5-14 years,Males,daly,3913.66
+Stroke,2010,Under 5 years,Females,daly,6400.5
+Stroke,2010,15-19 years,Females,daly,3159.35
+Stroke,2010,20-24 years,Females,daly,5048.41
+Stroke,2010,25-29 years,Females,daly,7391.85
+Stroke,2010,30-34 years,Females,daly,11636.4
+Stroke,2010,35-39 years,Females,daly,19666.7
+Stroke,2010,40-44 years,Females,daly,35788.3
+Stroke,2010,45-49 years,Females,daly,58876.2
+Stroke,2010,50-54 years,Females,daly,77553.1
+Stroke,2010,55-59 years,Females,daly,89423.1
+Stroke,2010,60-64 years,Females,daly,108151
+Stroke,2010,65-69 years,Females,daly,115836
+Stroke,2010,70-74 years,Females,daly,135518
+Stroke,2010,75-79 years,Females,daly,175323
+Stroke,2010,80+ years,Females,daly,525176
+Stroke,2010,All ages,Females,daly,1378320
+Stroke,2010,5-14 years,Females,daly,3373.72
+Ischemic stroke,2010,Under 5 years,Males,daly,3609.53
+Ischemic stroke,2010,15-19 years,Males,daly,1270.04
+Ischemic stroke,2010,20-24 years,Males,daly,1516.78
+Ischemic stroke,2010,25-29 years,Males,daly,2255.42
+Ischemic stroke,2010,30-34 years,Males,daly,3457.98
+Ischemic stroke,2010,35-39 years,Males,daly,5474.61
+Ischemic stroke,2010,40-44 years,Males,daly,9233.14
+Ischemic stroke,2010,45-49 years,Males,daly,16997.1
+Ischemic stroke,2010,50-54 years,Males,daly,27371.2
+Ischemic stroke,2010,55-59 years,Males,daly,40086
+Ischemic stroke,2010,60-64 years,Males,daly,60355.5
+Ischemic stroke,2010,65-69 years,Males,daly,68489.3
+Ischemic stroke,2010,70-74 years,Males,daly,83561.8
+Ischemic stroke,2010,75-79 years,Males,daly,116004
+Ischemic stroke,2010,80+ years,Males,daly,262953
+Ischemic stroke,2010,All ages,Males,daly,704179
+Ischemic stroke,2010,5-14 years,Males,daly,1543.73
+Ischemic stroke,2010,Under 5 years,Females,daly,3011.52
+Ischemic stroke,2010,15-19 years,Females,daly,934.208
+Ischemic stroke,2010,20-24 years,Females,daly,1102.35
+Ischemic stroke,2010,25-29 years,Females,daly,1764.43
+Ischemic stroke,2010,30-34 years,Females,daly,2745.11
+Ischemic stroke,2010,35-39 years,Females,daly,4543.42
+Ischemic stroke,2010,40-44 years,Females,daly,7689.93
+Ischemic stroke,2010,45-49 years,Females,daly,13293.2
+Ischemic stroke,2010,50-54 years,Females,daly,21332.1
+Ischemic stroke,2010,55-59 years,Females,daly,30412.2
+Ischemic stroke,2010,60-64 years,Females,daly,46248.7
+Ischemic stroke,2010,65-69 years,Females,daly,60691.2
+Ischemic stroke,2010,70-74 years,Females,daly,76472.5
+Ischemic stroke,2010,75-79 years,Females,daly,134127
+Ischemic stroke,2010,80+ years,Females,daly,459979
+Ischemic stroke,2010,All ages,Females,daly,865539
+Ischemic stroke,2010,5-14 years,Females,daly,1192.74
+Hemorrhagic stroke,2010,Under 5 years,Males,daly,4787.95
+Hemorrhagic stroke,2010,15-19 years,Males,daly,2836.54
+Hemorrhagic stroke,2010,20-24 years,Males,daly,5521.22
+Hemorrhagic stroke,2010,25-29 years,Males,daly,6982.92
+Hemorrhagic stroke,2010,30-34 years,Males,daly,9686.9
+Hemorrhagic stroke,2010,35-39 years,Males,daly,15586.6
+Hemorrhagic stroke,2010,40-44 years,Males,daly,27386.9
+Hemorrhagic stroke,2010,45-49 years,Males,daly,45946.7
+Hemorrhagic stroke,2010,50-54 years,Males,daly,62893
+Hemorrhagic stroke,2010,55-59 years,Males,daly,65032.1
+Hemorrhagic stroke,2010,60-64 years,Males,daly,64245.1
+Hemorrhagic stroke,2010,65-69 years,Males,daly,56659.3
+Hemorrhagic stroke,2010,70-74 years,Males,daly,48836.3
+Hemorrhagic stroke,2010,75-79 years,Males,daly,34702
+Hemorrhagic stroke,2010,80+ years,Males,daly,38002.7
+Hemorrhagic stroke,2010,All ages,Males,daly,491476
+Hemorrhagic stroke,2010,5-14 years,Males,daly,2369.93
+Hemorrhagic stroke,2010,Under 5 years,Females,daly,3388.99
+Hemorrhagic stroke,2010,15-19 years,Females,daly,2225.14
+Hemorrhagic stroke,2010,20-24 years,Females,daly,3946.06
+Hemorrhagic stroke,2010,25-29 years,Females,daly,5627.42
+Hemorrhagic stroke,2010,30-34 years,Females,daly,8891.26
+Hemorrhagic stroke,2010,35-39 years,Females,daly,15123.3
+Hemorrhagic stroke,2010,40-44 years,Females,daly,28098.4
+Hemorrhagic stroke,2010,45-49 years,Females,daly,45583
+Hemorrhagic stroke,2010,50-54 years,Females,daly,56220.9
+Hemorrhagic stroke,2010,55-59 years,Females,daly,59010.9
+Hemorrhagic stroke,2010,60-64 years,Females,daly,61902.2
+Hemorrhagic stroke,2010,65-69 years,Females,daly,55144.6
+Hemorrhagic stroke,2010,70-74 years,Females,daly,59045.5
+Hemorrhagic stroke,2010,75-79 years,Females,daly,41196.2
+Hemorrhagic stroke,2010,80+ years,Females,daly,65197.1
+Hemorrhagic stroke,2010,All ages,Females,daly,512782
+Hemorrhagic stroke,2010,5-14 years,Females,daly,2180.98
+Hypertensive heart disease,2010,Under 5 years,Males,daly,1005.57
+Hypertensive heart disease,2010,15-19 years,Males,daly,905.765
+Hypertensive heart disease,2010,20-24 years,Males,daly,2299.1
+Hypertensive heart disease,2010,25-29 years,Males,daly,4290.06
+Hypertensive heart disease,2010,30-34 years,Males,daly,6924.62
+Hypertensive heart disease,2010,35-39 years,Males,daly,12241.4
+Hypertensive heart disease,2010,40-44 years,Males,daly,22501.2
+Hypertensive heart disease,2010,45-49 years,Males,daly,37884.8
+Hypertensive heart disease,2010,50-54 years,Males,daly,48885.9
+Hypertensive heart disease,2010,55-59 years,Males,daly,47865.8
+Hypertensive heart disease,2010,60-64 years,Males,daly,44932.2
+Hypertensive heart disease,2010,65-69 years,Males,daly,33884.6
+Hypertensive heart disease,2010,70-74 years,Males,daly,26631.5
+Hypertensive heart disease,2010,75-79 years,Males,daly,23437.9
+Hypertensive heart disease,2010,80+ years,Males,daly,45414.3
+Hypertensive heart disease,2010,All ages,Males,daly,359572
+Hypertensive heart disease,2010,5-14 years,Males,daly,467.212
+Hypertensive heart disease,2010,Under 5 years,Females,daly,591.445
+Hypertensive heart disease,2010,15-19 years,Females,daly,274.779
+Hypertensive heart disease,2010,20-24 years,Females,daly,611.761
+Hypertensive heart disease,2010,25-29 years,Females,daly,1222.69
+Hypertensive heart disease,2010,30-34 years,Females,daly,2228.69
+Hypertensive heart disease,2010,35-39 years,Females,daly,4391.9
+Hypertensive heart disease,2010,40-44 years,Females,daly,10056.9
+Hypertensive heart disease,2010,45-49 years,Females,daly,17560.7
+Hypertensive heart disease,2010,50-54 years,Females,daly,22686.2
+Hypertensive heart disease,2010,55-59 years,Females,daly,25320.2
+Hypertensive heart disease,2010,60-64 years,Females,daly,28622.2
+Hypertensive heart disease,2010,65-69 years,Females,daly,26935.2
+Hypertensive heart disease,2010,70-74 years,Females,daly,27892.2
+Hypertensive heart disease,2010,75-79 years,Females,daly,31713.8
+Hypertensive heart disease,2010,80+ years,Females,daly,102261
+Hypertensive heart disease,2010,All ages,Females,daly,302613
+Hypertensive heart disease,2010,5-14 years,Females,daly,243.074
+COPD,2010,Under 5 years,Males,daly,3831.93
+COPD,2010,15-19 years,Males,daly,18610.1
+COPD,2010,20-24 years,Males,daly,25712.6
+COPD,2010,25-29 years,Males,daly,32705.1
+COPD,2010,30-34 years,Males,daly,37894.2
+COPD,2010,35-39 years,Males,daly,46227.9
+COPD,2010,40-44 years,Males,daly,61458.1
+COPD,2010,45-49 years,Males,daly,90811.1
+COPD,2010,50-54 years,Males,daly,129414
+COPD,2010,55-59 years,Males,daly,162785
+COPD,2010,60-64 years,Males,daly,211802
+COPD,2010,65-69 years,Males,daly,220208
+COPD,2010,70-74 years,Males,daly,219065
+COPD,2010,75-79 years,Males,daly,207174
+COPD,2010,80+ years,Males,daly,299956
+COPD,2010,All ages,Males,daly,1785130
+COPD,2010,5-14 years,Males,daly,17477.9
+COPD,2010,Under 5 years,Females,daly,2630.62
+COPD,2010,15-19 years,Females,daly,15824.7
+COPD,2010,20-24 years,Females,daly,21583.9
+COPD,2010,25-29 years,Females,daly,27666.4
+COPD,2010,30-34 years,Females,daly,33326.8
+COPD,2010,35-39 years,Females,daly,41991.4
+COPD,2010,40-44 years,Females,daly,58538.7
+COPD,2010,45-49 years,Females,daly,89284.2
+COPD,2010,50-54 years,Females,daly,126215
+COPD,2010,55-59 years,Females,daly,160183
+COPD,2010,60-64 years,Females,daly,212085
+COPD,2010,65-69 years,Females,daly,225737
+COPD,2010,70-74 years,Females,daly,228278
+COPD,2010,75-79 years,Females,daly,220734
+COPD,2010,80+ years,Females,daly,394346
+COPD,2010,All ages,Females,daly,1873400
+COPD,2010,5-14 years,Females,daly,14970.4
+Asthma,2010,Under 5 years,Males,daly,11834.1
+Asthma,2010,15-19 years,Males,daly,50024.3
+Asthma,2010,20-24 years,Males,daly,34776.8
+Asthma,2010,25-29 years,Males,daly,27821.7
+Asthma,2010,30-34 years,Males,daly,22985.6
+Asthma,2010,35-39 years,Males,daly,21935.1
+Asthma,2010,40-44 years,Males,daly,22910
+Asthma,2010,45-49 years,Males,daly,25565.4
+Asthma,2010,50-54 years,Males,daly,25739.8
+Asthma,2010,55-59 years,Males,daly,22695
+Asthma,2010,60-64 years,Males,daly,19897.7
+Asthma,2010,65-69 years,Males,daly,15024.4
+Asthma,2010,70-74 years,Males,daly,11277.9
+Asthma,2010,75-79 years,Males,daly,8698.22
+Asthma,2010,80+ years,Males,daly,11656.8
+Asthma,2010,All ages,Males,daly,476332
+Asthma,2010,5-14 years,Males,daly,143489
+Asthma,2010,Under 5 years,Females,daly,10377.3
+Asthma,2010,15-19 years,Females,daly,51728.8
+Asthma,2010,20-24 years,Females,daly,36485
+Asthma,2010,25-29 years,Females,daly,29738.3
+Asthma,2010,30-34 years,Females,daly,26426.3
+Asthma,2010,35-39 years,Females,daly,26472.7
+Asthma,2010,40-44 years,Females,daly,29297.4
+Asthma,2010,45-49 years,Females,daly,34511.4
+Asthma,2010,50-54 years,Females,daly,35304.6
+Asthma,2010,55-59 years,Females,daly,31741.6
+Asthma,2010,60-64 years,Females,daly,28035.6
+Asthma,2010,65-69 years,Females,daly,21105.1
+Asthma,2010,70-74 years,Females,daly,16660.3
+Asthma,2010,75-79 years,Females,daly,13791.9
+Asthma,2010,80+ years,Females,daly,24657.5
+Asthma,2010,All ages,Females,daly,555864
+Asthma,2010,5-14 years,Females,daly,139530
+Other respiratory diseases,2010,Under 5 years,Males,daly,12160.8
+Other respiratory diseases,2010,15-19 years,Males,daly,9721.35
+Other respiratory diseases,2010,20-24 years,Males,daly,9995.31
+Other respiratory diseases,2010,25-29 years,Males,daly,8216.39
+Other respiratory diseases,2010,30-34 years,Males,daly,9069.91
+Other respiratory diseases,2010,35-39 years,Males,daly,8296.9
+Other respiratory diseases,2010,40-44 years,Males,daly,8223.72
+Other respiratory diseases,2010,45-49 years,Males,daly,7761.86
+Other respiratory diseases,2010,50-54 years,Males,daly,8115.06
+Other respiratory diseases,2010,55-59 years,Males,daly,7949.43
+Other respiratory diseases,2010,60-64 years,Males,daly,8609.73
+Other respiratory diseases,2010,65-69 years,Males,daly,7599.12
+Other respiratory diseases,2010,70-74 years,Males,daly,6623.1
+Other respiratory diseases,2010,75-79 years,Males,daly,6301.4
+Other respiratory diseases,2010,80+ years,Males,daly,10119.7
+Other respiratory diseases,2010,All ages,Males,daly,138937
+Other respiratory diseases,2010,5-14 years,Males,daly,10173.5
+Other respiratory diseases,2010,Under 5 years,Females,daly,8291.59
+Other respiratory diseases,2010,15-19 years,Females,daly,6840.6
+Other respiratory diseases,2010,20-24 years,Females,daly,8532.33
+Other respiratory diseases,2010,25-29 years,Females,daly,7517.03
+Other respiratory diseases,2010,30-34 years,Females,daly,7673.98
+Other respiratory diseases,2010,35-39 years,Females,daly,7289.63
+Other respiratory diseases,2010,40-44 years,Females,daly,6147.49
+Other respiratory diseases,2010,45-49 years,Females,daly,6566.61
+Other respiratory diseases,2010,50-54 years,Females,daly,7452.22
+Other respiratory diseases,2010,55-59 years,Females,daly,7278.84
+Other respiratory diseases,2010,60-64 years,Females,daly,7991
+Other respiratory diseases,2010,65-69 years,Females,daly,6580.79
+Other respiratory diseases,2010,70-74 years,Females,daly,6011.07
+Other respiratory diseases,2010,75-79 years,Females,daly,5933.19
+Other respiratory diseases,2010,80+ years,Females,daly,13322.6
+Other respiratory diseases,2010,All ages,Females,daly,121742
+Other respiratory diseases,2010,5-14 years,Females,daly,8313.43
+Alzheimers disease,2010,15-19 years,Males,daly,466.206
+Alzheimers disease,2010,20-24 years,Males,daly,423.75
+Alzheimers disease,2010,25-29 years,Males,daly,331.893
+Alzheimers disease,2010,30-34 years,Males,daly,355.639
+Alzheimers disease,2010,35-39 years,Males,daly,521.096
+Alzheimers disease,2010,40-44 years,Males,daly,1329.17
+Alzheimers disease,2010,45-49 years,Males,daly,5144.32
+Alzheimers disease,2010,50-54 years,Males,daly,12942.8
+Alzheimers disease,2010,55-59 years,Males,daly,22555.6
+Alzheimers disease,2010,60-64 years,Males,daly,36172
+Alzheimers disease,2010,65-69 years,Males,daly,52026.9
+Alzheimers disease,2010,70-74 years,Males,daly,83106.6
+Alzheimers disease,2010,75-79 years,Males,daly,125434
+Alzheimers disease,2010,80+ years,Males,daly,420349
+Alzheimers disease,2010,All ages,Males,daly,762640
+Alzheimers disease,2010,5-14 years,Males,daly,1481.55
+Alzheimers disease,2010,15-19 years,Females,daly,338.91
+Alzheimers disease,2010,20-24 years,Females,daly,293.187
+Alzheimers disease,2010,25-29 years,Females,daly,227.094
+Alzheimers disease,2010,30-34 years,Females,daly,313.051
+Alzheimers disease,2010,35-39 years,Females,daly,451.075
+Alzheimers disease,2010,40-44 years,Females,daly,1093.32
+Alzheimers disease,2010,45-49 years,Females,daly,5741.57
+Alzheimers disease,2010,50-54 years,Females,daly,15019.7
+Alzheimers disease,2010,55-59 years,Females,daly,27489.1
+Alzheimers disease,2010,60-64 years,Females,daly,41999.3
+Alzheimers disease,2010,65-69 years,Females,daly,58857.3
+Alzheimers disease,2010,70-74 years,Females,daly,96980.1
+Alzheimers disease,2010,75-79 years,Females,daly,165966
+Alzheimers disease,2010,80+ years,Females,daly,843768
+Alzheimers disease,2010,All ages,Females,daly,1259690
+Alzheimers disease,2010,5-14 years,Females,daly,1154.15
+Unipolar depressive disorders,2010,Under 5 years,Males,daly,54.7239
+Unipolar depressive disorders,2010,15-19 years,Males,daly,90328.2
+Unipolar depressive disorders,2010,20-24 years,Males,daly,103313
+Unipolar depressive disorders,2010,25-29 years,Males,daly,111359
+Unipolar depressive disorders,2010,30-34 years,Males,daly,110112
+Unipolar depressive disorders,2010,35-39 years,Males,daly,111492
+Unipolar depressive disorders,2010,40-44 years,Males,daly,118208
+Unipolar depressive disorders,2010,45-49 years,Males,daly,128274
+Unipolar depressive disorders,2010,50-54 years,Males,daly,124802
+Unipolar depressive disorders,2010,55-59 years,Males,daly,106435
+Unipolar depressive disorders,2010,60-64 years,Males,daly,81710.5
+Unipolar depressive disorders,2010,65-69 years,Males,daly,51991.2
+Unipolar depressive disorders,2010,70-74 years,Males,daly,34550.8
+Unipolar depressive disorders,2010,75-79 years,Males,daly,27145.9
+Unipolar depressive disorders,2010,80+ years,Males,daly,35935.2
+Unipolar depressive disorders,2010,All ages,Males,daly,1334690
+Unipolar depressive disorders,2010,5-14 years,Males,daly,98976.7
+Unipolar depressive disorders,2010,Under 5 years,Females,daly,91.264
+Unipolar depressive disorders,2010,15-19 years,Females,daly,140614
+Unipolar depressive disorders,2010,20-24 years,Females,daly,157733
+Unipolar depressive disorders,2010,25-29 years,Females,daly,170336
+Unipolar depressive disorders,2010,30-34 years,Females,daly,173388
+Unipolar depressive disorders,2010,35-39 years,Females,daly,178660
+Unipolar depressive disorders,2010,40-44 years,Females,daly,192343
+Unipolar depressive disorders,2010,45-49 years,Females,daly,214344
+Unipolar depressive disorders,2010,50-54 years,Females,daly,212649
+Unipolar depressive disorders,2010,55-59 years,Females,daly,186057
+Unipolar depressive disorders,2010,60-64 years,Females,daly,146462
+Unipolar depressive disorders,2010,65-69 years,Females,daly,97598.8
+Unipolar depressive disorders,2010,70-74 years,Females,daly,68940.1
+Unipolar depressive disorders,2010,75-79 years,Females,daly,59616
+Unipolar depressive disorders,2010,80+ years,Females,daly,104363
+Unipolar depressive disorders,2010,All ages,Females,daly,2259680
+Unipolar depressive disorders,2010,5-14 years,Females,daly,156479
+Diabetes,2010,Under 5 years,Males,daly,3976.1
+Diabetes,2010,15-19 years,Males,daly,6127.58
+Diabetes,2010,20-24 years,Males,daly,10034.5
+Diabetes,2010,25-29 years,Males,daly,17760.7
+Diabetes,2010,30-34 years,Males,daly,28455.6
+Diabetes,2010,35-39 years,Males,daly,44500.3
+Diabetes,2010,40-44 years,Males,daly,70780.4
+Diabetes,2010,45-49 years,Males,daly,108885
+Diabetes,2010,50-54 years,Males,daly,145631
+Diabetes,2010,55-59 years,Males,daly,167179
+Diabetes,2010,60-64 years,Males,daly,180096
+Diabetes,2010,65-69 years,Males,daly,153924
+Diabetes,2010,70-74 years,Males,daly,130681
+Diabetes,2010,75-79 years,Males,daly,107390
+Diabetes,2010,80+ years,Males,daly,141175
+Diabetes,2010,All ages,Males,daly,1324070
+Diabetes,2010,5-14 years,Males,daly,7471.79
+Diabetes,2010,Under 5 years,Females,daly,3402.81
+Diabetes,2010,15-19 years,Females,daly,5626.87
+Diabetes,2010,20-24 years,Females,daly,8613.58
+Diabetes,2010,25-29 years,Females,daly,14355.2
+Diabetes,2010,30-34 years,Females,daly,22446.7
+Diabetes,2010,35-39 years,Females,daly,34350.5
+Diabetes,2010,40-44 years,Females,daly,53963
+Diabetes,2010,45-49 years,Females,daly,82578.7
+Diabetes,2010,50-54 years,Females,daly,114053
+Diabetes,2010,55-59 years,Females,daly,136686
+Diabetes,2010,60-64 years,Females,daly,152877
+Diabetes,2010,65-69 years,Females,daly,141921
+Diabetes,2010,70-74 years,Females,daly,128829
+Diabetes,2010,75-79 years,Females,daly,119459
+Diabetes,2010,80+ years,Females,daly,207011
+Diabetes,2010,All ages,Females,daly,1233150
+Diabetes,2010,5-14 years,Females,daly,6979.24
+Road injury,2010,Under 5 years,Males,daly,35979.2
+Road injury,2010,15-19 years,Males,daly,211948
+Road injury,2010,20-24 years,Males,daly,279073
+Road injury,2010,25-29 years,Males,daly,184238
+Road injury,2010,30-34 years,Males,daly,126635
+Road injury,2010,35-39 years,Males,daly,108849
+Road injury,2010,40-44 years,Males,daly,112127
+Road injury,2010,45-49 years,Males,daly,115626
+Road injury,2010,50-54 years,Males,daly,101758
+Road injury,2010,55-59 years,Males,daly,75334.8
+Road injury,2010,60-64 years,Males,daly,56996.3
+Road injury,2010,65-69 years,Males,daly,36369.5
+Road injury,2010,70-74 years,Males,daly,26238.7
+Road injury,2010,75-79 years,Males,daly,19117.2
+Road injury,2010,80+ years,Males,daly,21128.7
+Road injury,2010,All ages,Males,daly,1571720
+Road injury,2010,5-14 years,Males,daly,60300.3
+Road injury,2010,Under 5 years,Females,daly,27746.6
+Road injury,2010,15-19 years,Females,daly,100749
+Road injury,2010,20-24 years,Females,daly,84205
+Road injury,2010,25-29 years,Females,daly,56967.8
+Road injury,2010,30-34 years,Females,daly,45961.5
+Road injury,2010,35-39 years,Females,daly,45530.1
+Road injury,2010,40-44 years,Females,daly,48724.8
+Road injury,2010,45-49 years,Females,daly,49912.9
+Road injury,2010,50-54 years,Females,daly,42688.9
+Road injury,2010,55-59 years,Females,daly,35986.5
+Road injury,2010,60-64 years,Females,daly,30050.1
+Road injury,2010,65-69 years,Females,daly,21371.8
+Road injury,2010,70-74 years,Females,daly,16800
+Road injury,2010,75-79 years,Females,daly,13175
+Road injury,2010,80+ years,Females,daly,15607.5
+Road injury,2010,All ages,Females,daly,674502
+Road injury,2010,5-14 years,Females,daly,39024.6
+Pedestrian road injury,2010,Under 5 years,Males,daly,15028.5
+Pedestrian road injury,2010,15-19 years,Males,daly,14203.6
+Pedestrian road injury,2010,20-24 years,Males,daly,19603.8
+Pedestrian road injury,2010,25-29 years,Males,daly,16096.1
+Pedestrian road injury,2010,30-34 years,Males,daly,13699.9
+Pedestrian road injury,2010,35-39 years,Males,daly,13785.5
+Pedestrian road injury,2010,40-44 years,Males,daly,16130.6
+Pedestrian road injury,2010,45-49 years,Males,daly,18306.4
+Pedestrian road injury,2010,50-54 years,Males,daly,17480.8
+Pedestrian road injury,2010,55-59 years,Males,daly,12494.2
+Pedestrian road injury,2010,60-64 years,Males,daly,9787.86
+Pedestrian road injury,2010,65-69 years,Males,daly,6916.25
+Pedestrian road injury,2010,70-74 years,Males,daly,5162.76
+Pedestrian road injury,2010,75-79 years,Males,daly,3840.34
+Pedestrian road injury,2010,80+ years,Males,daly,4499.68
+Pedestrian road injury,2010,All ages,Males,daly,203292
+Pedestrian road injury,2010,5-14 years,Males,daly,16256.3
+Pedestrian road injury,2010,Under 5 years,Females,daly,8928.1
+Pedestrian road injury,2010,15-19 years,Females,daly,6447.02
+Pedestrian road injury,2010,20-24 years,Females,daly,6410.57
+Pedestrian road injury,2010,25-29 years,Females,daly,5407.69
+Pedestrian road injury,2010,30-34 years,Females,daly,5116.36
+Pedestrian road injury,2010,35-39 years,Females,daly,5540.98
+Pedestrian road injury,2010,40-44 years,Females,daly,6857.06
+Pedestrian road injury,2010,45-49 years,Females,daly,7221.29
+Pedestrian road injury,2010,50-54 years,Females,daly,6100.59
+Pedestrian road injury,2010,55-59 years,Females,daly,5921.47
+Pedestrian road injury,2010,60-64 years,Females,daly,4827.15
+Pedestrian road injury,2010,65-69 years,Females,daly,3917.61
+Pedestrian road injury,2010,70-74 years,Females,daly,3041.02
+Pedestrian road injury,2010,75-79 years,Females,daly,2569.92
+Pedestrian road injury,2010,80+ years,Females,daly,3148.01
+Pedestrian road injury,2010,All ages,Females,daly,89687.7
+Pedestrian road injury,2010,5-14 years,Females,daly,8232.85
+Other road injury,2010,Under 5 years,Males,daly,198.836
+Other road injury,2010,15-19 years,Males,daly,182.066
+Other road injury,2010,20-24 years,Males,daly,208.821
+Other road injury,2010,25-29 years,Males,daly,173.954
+Other road injury,2010,30-34 years,Males,daly,125.535
+Other road injury,2010,35-39 years,Males,daly,163.486
+Other road injury,2010,40-44 years,Males,daly,183.682
+Other road injury,2010,45-49 years,Males,daly,264.206
+Other road injury,2010,50-54 years,Males,daly,270.604
+Other road injury,2010,55-59 years,Males,daly,252.133
+Other road injury,2010,60-64 years,Males,daly,209.624
+Other road injury,2010,65-69 years,Males,daly,180.921
+Other road injury,2010,70-74 years,Males,daly,127.882
+Other road injury,2010,75-79 years,Males,daly,60.0173
+Other road injury,2010,80+ years,Males,daly,46.7227
+Other road injury,2010,All ages,Males,daly,3013.14
+Other road injury,2010,5-14 years,Males,daly,364.651
+Other road injury,2010,Under 5 years,Females,daly,137.385
+Other road injury,2010,15-19 years,Females,daly,130.091
+Other road injury,2010,20-24 years,Females,daly,125.943
+Other road injury,2010,25-29 years,Females,daly,97.4774
+Other road injury,2010,30-34 years,Females,daly,101.735
+Other road injury,2010,35-39 years,Females,daly,130.987
+Other road injury,2010,40-44 years,Females,daly,128.607
+Other road injury,2010,45-49 years,Females,daly,175.287
+Other road injury,2010,50-54 years,Females,daly,196.256
+Other road injury,2010,55-59 years,Females,daly,160.393
+Other road injury,2010,60-64 years,Females,daly,134.482
+Other road injury,2010,65-69 years,Females,daly,83.3397
+Other road injury,2010,70-74 years,Females,daly,41.042
+Other road injury,2010,75-79 years,Females,daly,29.1695
+Other road injury,2010,80+ years,Females,daly,25.1227
+Other road injury,2010,All ages,Females,daly,1990.92
+Other road injury,2010,5-14 years,Females,daly,293.597
+Lower respiratory infections,2010,Under 5 years,Males,yld,4498.31
+Lower respiratory infections,2010,15-19 years,Males,yld,435.943
+Lower respiratory infections,2010,20-24 years,Males,yld,391.095
+Lower respiratory infections,2010,25-29 years,Males,yld,504.089
+Lower respiratory infections,2010,30-34 years,Males,yld,531.97
+Lower respiratory infections,2010,35-39 years,Males,yld,619.747
+Lower respiratory infections,2010,40-44 years,Males,yld,724.081
+Lower respiratory infections,2010,45-49 years,Males,yld,1025.9
+Lower respiratory infections,2010,50-54 years,Males,yld,1465.07
+Lower respiratory infections,2010,55-59 years,Males,yld,1687.28
+Lower respiratory infections,2010,60-64 years,Males,yld,1777.57
+Lower respiratory infections,2010,65-69 years,Males,yld,2017.21
+Lower respiratory infections,2010,70-74 years,Males,yld,2636.52
+Lower respiratory infections,2010,75-79 years,Males,yld,2831.35
+Lower respiratory infections,2010,80+ years,Males,yld,5591.29
+Lower respiratory infections,2010,All ages,Males,yld,29163.5
+Lower respiratory infections,2010,5-14 years,Males,yld,2426.11
+Lower respiratory infections,2010,Under 5 years,Females,yld,3642.15
+Lower respiratory infections,2010,15-19 years,Females,yld,406.51
+Lower respiratory infections,2010,20-24 years,Females,yld,359.422
+Lower respiratory infections,2010,25-29 years,Females,yld,453.998
+Lower respiratory infections,2010,30-34 years,Females,yld,515.041
+Lower respiratory infections,2010,35-39 years,Females,yld,588.528
+Lower respiratory infections,2010,40-44 years,Females,yld,704.901
+Lower respiratory infections,2010,45-49 years,Females,yld,995.724
+Lower respiratory infections,2010,50-54 years,Females,yld,1449.62
+Lower respiratory infections,2010,55-59 years,Females,yld,1682.27
+Lower respiratory infections,2010,60-64 years,Females,yld,1787.67
+Lower respiratory infections,2010,65-69 years,Females,yld,2110.74
+Lower respiratory infections,2010,70-74 years,Females,yld,2872.71
+Lower respiratory infections,2010,75-79 years,Females,yld,3355.32
+Lower respiratory infections,2010,80+ years,Females,yld,8915.31
+Lower respiratory infections,2010,All ages,Females,yld,32062.1
+Lower respiratory infections,2010,5-14 years,Females,yld,2222.14
+Upper respiratory infections,2010,Under 5 years,Males,yld,2558.15
+Upper respiratory infections,2010,15-19 years,Males,yld,2489.98
+Upper respiratory infections,2010,20-24 years,Males,yld,1733.11
+Upper respiratory infections,2010,25-29 years,Males,yld,1854.08
+Upper respiratory infections,2010,30-34 years,Males,yld,1826.79
+Upper respiratory infections,2010,35-39 years,Males,yld,1876.45
+Upper respiratory infections,2010,40-44 years,Males,yld,2075.34
+Upper respiratory infections,2010,45-49 years,Males,yld,2168.3
+Upper respiratory infections,2010,50-54 years,Males,yld,1799.3
+Upper respiratory infections,2010,55-59 years,Males,yld,1283.38
+Upper respiratory infections,2010,60-64 years,Males,yld,876.534
+Upper respiratory infections,2010,65-69 years,Males,yld,590.264
+Upper respiratory infections,2010,70-74 years,Males,yld,555.281
+Upper respiratory infections,2010,75-79 years,Males,yld,503.834
+Upper respiratory infections,2010,80+ years,Males,yld,848.913
+Upper respiratory infections,2010,All ages,Males,yld,30262
+Upper respiratory infections,2010,5-14 years,Males,yld,7222.25
+Upper respiratory infections,2010,Under 5 years,Females,yld,2405.39
+Upper respiratory infections,2010,15-19 years,Females,yld,2489.58
+Upper respiratory infections,2010,20-24 years,Females,yld,1811.71
+Upper respiratory infections,2010,25-29 years,Females,yld,1892.51
+Upper respiratory infections,2010,30-34 years,Females,yld,1883.8
+Upper respiratory infections,2010,35-39 years,Females,yld,1937.5
+Upper respiratory infections,2010,40-44 years,Females,yld,2139.34
+Upper respiratory infections,2010,45-49 years,Females,yld,2267.12
+Upper respiratory infections,2010,50-54 years,Females,yld,1888.82
+Upper respiratory infections,2010,55-59 years,Females,yld,1357.85
+Upper respiratory infections,2010,60-64 years,Females,yld,920.156
+Upper respiratory infections,2010,65-69 years,Females,yld,643.221
+Upper respiratory infections,2010,70-74 years,Females,yld,647.856
+Upper respiratory infections,2010,75-79 years,Females,yld,658.823
+Upper respiratory infections,2010,80+ years,Females,yld,1522.86
+Upper respiratory infections,2010,All ages,Females,yld,31416
+Upper respiratory infections,2010,5-14 years,Females,yld,6949.42
+Lung cancer,2010,15-19 years,Males,yld,2.84258
+Lung cancer,2010,20-24 years,Males,yld,7.00684
+Lung cancer,2010,25-29 years,Males,yld,9.46577
+Lung cancer,2010,30-34 years,Males,yld,23.8738
+Lung cancer,2010,35-39 years,Males,yld,67.9509
+Lung cancer,2010,40-44 years,Males,yld,239.722
+Lung cancer,2010,45-49 years,Males,yld,687.794
+Lung cancer,2010,50-54 years,Males,yld,1572.83
+Lung cancer,2010,55-59 years,Males,yld,2457.36
+Lung cancer,2010,60-64 years,Males,yld,3596.68
+Lung cancer,2010,65-69 years,Males,yld,4059.28
+Lung cancer,2010,70-74 years,Males,yld,3834.73
+Lung cancer,2010,75-79 years,Males,yld,3373.36
+Lung cancer,2010,80+ years,Males,yld,4570.31
+Lung cancer,2010,All ages,Males,yld,24503.2
+Lung cancer,2010,15-19 years,Females,yld,1.38072
+Lung cancer,2010,20-24 years,Females,yld,7.90778
+Lung cancer,2010,25-29 years,Females,yld,14.1857
+Lung cancer,2010,30-34 years,Females,yld,28.3207
+Lung cancer,2010,35-39 years,Females,yld,79.3224
+Lung cancer,2010,40-44 years,Females,yld,259.598
+Lung cancer,2010,45-49 years,Females,yld,750.858
+Lung cancer,2010,50-54 years,Females,yld,1311.7
+Lung cancer,2010,55-59 years,Females,yld,1908.05
+Lung cancer,2010,60-64 years,Females,yld,2909.17
+Lung cancer,2010,65-69 years,Females,yld,3285.4
+Lung cancer,2010,70-74 years,Females,yld,3146.53
+Lung cancer,2010,75-79 years,Females,yld,2811.87
+Lung cancer,2010,80+ years,Females,yld,4121.25
+Lung cancer,2010,All ages,Females,yld,20635.5
+Breast cancer,2010,15-19 years,Females,yld,5.25003
+Breast cancer,2010,20-24 years,Females,yld,42.6566
+Breast cancer,2010,25-29 years,Females,yld,252.396
+Breast cancer,2010,30-34 years,Females,yld,901.255
+Breast cancer,2010,35-39 years,Females,yld,2271.94
+Breast cancer,2010,40-44 years,Females,yld,5424.55
+Breast cancer,2010,45-49 years,Females,yld,10353.7
+Breast cancer,2010,50-54 years,Females,yld,14473.9
+Breast cancer,2010,55-59 years,Females,yld,17439.6
+Breast cancer,2010,60-64 years,Females,yld,20499.3
+Breast cancer,2010,65-69 years,Females,yld,19339.5
+Breast cancer,2010,70-74 years,Females,yld,17638.3
+Breast cancer,2010,75-79 years,Females,yld,16956.6
+Breast cancer,2010,80+ years,Females,yld,35683.2
+Breast cancer,2010,All ages,Females,yld,161282
+Colorectal cancer,2010,15-19 years,Males,yld,12.6561
+Colorectal cancer,2010,20-24 years,Males,yld,43.6299
+Colorectal cancer,2010,25-29 years,Males,yld,90.6031
+Colorectal cancer,2010,30-34 years,Males,yld,165.857
+Colorectal cancer,2010,35-39 years,Males,yld,358.241
+Colorectal cancer,2010,40-44 years,Males,yld,774.707
+Colorectal cancer,2010,45-49 years,Males,yld,1599.04
+Colorectal cancer,2010,50-54 years,Males,yld,2945.08
+Colorectal cancer,2010,55-59 years,Males,yld,3761.05
+Colorectal cancer,2010,60-64 years,Males,yld,4617.52
+Colorectal cancer,2010,65-69 years,Males,yld,4985.83
+Colorectal cancer,2010,70-74 years,Males,yld,4928.28
+Colorectal cancer,2010,75-79 years,Males,yld,4510.49
+Colorectal cancer,2010,80+ years,Males,yld,8061.82
+Colorectal cancer,2010,All ages,Males,yld,36854.8
+Colorectal cancer,2010,15-19 years,Females,yld,11.6646
+Colorectal cancer,2010,20-24 years,Females,yld,32.9549
+Colorectal cancer,2010,25-29 years,Females,yld,71.8552
+Colorectal cancer,2010,30-34 years,Females,yld,161.804
+Colorectal cancer,2010,35-39 years,Females,yld,349.272
+Colorectal cancer,2010,40-44 years,Females,yld,732.019
+Colorectal cancer,2010,45-49 years,Females,yld,1382.16
+Colorectal cancer,2010,50-54 years,Females,yld,2521.21
+Colorectal cancer,2010,55-59 years,Females,yld,3026.17
+Colorectal cancer,2010,60-64 years,Females,yld,3651.47
+Colorectal cancer,2010,65-69 years,Females,yld,4051.83
+Colorectal cancer,2010,70-74 years,Females,yld,4253.07
+Colorectal cancer,2010,75-79 years,Females,yld,4542.88
+Colorectal cancer,2010,80+ years,Females,yld,11593.9
+Colorectal cancer,2010,All ages,Females,yld,36382.3
+Rheumatic heart disease,2010,Under 5 years,Males,yld,96.4625
+Rheumatic heart disease,2010,15-19 years,Males,yld,1120.89
+Rheumatic heart disease,2010,20-24 years,Males,yld,1185.02
+Rheumatic heart disease,2010,25-29 years,Males,yld,1197.47
+Rheumatic heart disease,2010,30-34 years,Males,yld,1092.72
+Rheumatic heart disease,2010,35-39 years,Males,yld,1041.23
+Rheumatic heart disease,2010,40-44 years,Males,yld,1094.43
+Rheumatic heart disease,2010,45-49 years,Males,yld,1165.28
+Rheumatic heart disease,2010,50-54 years,Males,yld,1070.53
+Rheumatic heart disease,2010,55-59 years,Males,yld,973.243
+Rheumatic heart disease,2010,60-64 years,Males,yld,893.782
+Rheumatic heart disease,2010,65-69 years,Males,yld,725.221
+Rheumatic heart disease,2010,70-74 years,Males,yld,648.37
+Rheumatic heart disease,2010,75-79 years,Males,yld,717.931
+Rheumatic heart disease,2010,80+ years,Males,yld,1467.45
+Rheumatic heart disease,2010,All ages,Males,yld,16214.2
+Rheumatic heart disease,2010,5-14 years,Males,yld,1724.2
+Rheumatic heart disease,2010,Under 5 years,Females,yld,119.872
+Rheumatic heart disease,2010,15-19 years,Females,yld,1464.36
+Rheumatic heart disease,2010,20-24 years,Females,yld,1541.67
+Rheumatic heart disease,2010,25-29 years,Females,yld,1536.26
+Rheumatic heart disease,2010,30-34 years,Females,yld,1460.41
+Rheumatic heart disease,2010,35-39 years,Females,yld,1447.32
+Rheumatic heart disease,2010,40-44 years,Females,yld,1539.21
+Rheumatic heart disease,2010,45-49 years,Females,yld,1702.11
+Rheumatic heart disease,2010,50-54 years,Females,yld,1558.64
+Rheumatic heart disease,2010,55-59 years,Females,yld,1464.92
+Rheumatic heart disease,2010,60-64 years,Females,yld,1388.37
+Rheumatic heart disease,2010,65-69 years,Females,yld,1149.54
+Rheumatic heart disease,2010,70-74 years,Females,yld,1069.73
+Rheumatic heart disease,2010,75-79 years,Females,yld,1277.96
+Rheumatic heart disease,2010,80+ years,Females,yld,3575.37
+Rheumatic heart disease,2010,All ages,Females,yld,24596
+Rheumatic heart disease,2010,5-14 years,Females,yld,2300.23
+Ischemic heart disease,2010,Under 5 years,Males,yld,58.7448
+Ischemic heart disease,2010,15-19 years,Males,yld,669.639
+Ischemic heart disease,2010,20-24 years,Males,yld,1818.98
+Ischemic heart disease,2010,25-29 years,Males,yld,3654.06
+Ischemic heart disease,2010,30-34 years,Males,yld,5517.13
+Ischemic heart disease,2010,35-39 years,Males,yld,7945.49
+Ischemic heart disease,2010,40-44 years,Males,yld,12234.4
+Ischemic heart disease,2010,45-49 years,Males,yld,21034.2
+Ischemic heart disease,2010,50-54 years,Males,yld,31533
+Ischemic heart disease,2010,55-59 years,Males,yld,41221.3
+Ischemic heart disease,2010,60-64 years,Males,yld,47707.8
+Ischemic heart disease,2010,65-69 years,Males,yld,43501.9
+Ischemic heart disease,2010,70-74 years,Males,yld,39240.1
+Ischemic heart disease,2010,75-79 years,Males,yld,39737.6
+Ischemic heart disease,2010,80+ years,Males,yld,67471
+Ischemic heart disease,2010,All ages,Males,yld,363592
+Ischemic heart disease,2010,5-14 years,Males,yld,246.527
+Ischemic heart disease,2010,Under 5 years,Females,yld,22.8568
+Ischemic heart disease,2010,15-19 years,Females,yld,419.717
+Ischemic heart disease,2010,20-24 years,Females,yld,1199.24
+Ischemic heart disease,2010,25-29 years,Females,yld,2417.63
+Ischemic heart disease,2010,30-34 years,Females,yld,3923.65
+Ischemic heart disease,2010,35-39 years,Females,yld,5968.45
+Ischemic heart disease,2010,40-44 years,Females,yld,9458.14
+Ischemic heart disease,2010,45-49 years,Females,yld,16167.2
+Ischemic heart disease,2010,50-54 years,Females,yld,24235.2
+Ischemic heart disease,2010,55-59 years,Females,yld,31987.9
+Ischemic heart disease,2010,60-64 years,Females,yld,37468.6
+Ischemic heart disease,2010,65-69 years,Females,yld,34412.8
+Ischemic heart disease,2010,70-74 years,Females,yld,32291.3
+Ischemic heart disease,2010,75-79 years,Females,yld,36213.6
+Ischemic heart disease,2010,80+ years,Females,yld,85129
+Ischemic heart disease,2010,All ages,Females,yld,321441
+Ischemic heart disease,2010,5-14 years,Females,yld,126.186
+Stroke,2010,Under 5 years,Males,yld,22.3023
+Stroke,2010,15-19 years,Males,yld,1119.15
+Stroke,2010,20-24 years,Males,yld,1742.59
+Stroke,2010,25-29 years,Males,yld,2599.61
+Stroke,2010,30-34 years,Males,yld,3567.82
+Stroke,2010,35-39 years,Males,yld,5209.93
+Stroke,2010,40-44 years,Males,yld,7392.51
+Stroke,2010,45-49 years,Males,yld,12574.5
+Stroke,2010,50-54 years,Males,yld,19495
+Stroke,2010,55-59 years,Males,yld,27863.6
+Stroke,2010,60-64 years,Males,yld,33533
+Stroke,2010,65-69 years,Males,yld,35292.5
+Stroke,2010,70-74 years,Males,yld,35800.2
+Stroke,2010,75-79 years,Males,yld,43005.2
+Stroke,2010,80+ years,Males,yld,69536.6
+Stroke,2010,All ages,Males,yld,299519
+Stroke,2010,5-14 years,Males,yld,764.606
+Stroke,2010,Under 5 years,Females,yld,14.7796
+Stroke,2010,15-19 years,Females,yld,751.716
+Stroke,2010,20-24 years,Females,yld,1199.35
+Stroke,2010,25-29 years,Females,yld,1926.5
+Stroke,2010,30-34 years,Females,yld,2929.84
+Stroke,2010,35-39 years,Females,yld,4687.13
+Stroke,2010,40-44 years,Females,yld,7135.5
+Stroke,2010,45-49 years,Females,yld,12366.8
+Stroke,2010,50-54 years,Females,yld,18974.8
+Stroke,2010,55-59 years,Females,yld,26380.5
+Stroke,2010,60-64 years,Females,yld,31103.3
+Stroke,2010,65-69 years,Females,yld,33955.5
+Stroke,2010,70-74 years,Females,yld,37376.1
+Stroke,2010,75-79 years,Females,yld,48816.9
+Stroke,2010,80+ years,Females,yld,100979
+Stroke,2010,All ages,Females,yld,329131
+Stroke,2010,5-14 years,Females,yld,533.495
+Ischemic stroke,2010,Under 5 years,Males,yld,17.8255
+Ischemic stroke,2010,15-19 years,Males,yld,680.728
+Ischemic stroke,2010,20-24 years,Males,yld,640.68
+Ischemic stroke,2010,25-29 years,Males,yld,1238.57
+Ischemic stroke,2010,30-34 years,Males,yld,1949.15
+Ischemic stroke,2010,35-39 years,Males,yld,3122.2
+Ischemic stroke,2010,40-44 years,Males,yld,4737.8
+Ischemic stroke,2010,45-49 years,Males,yld,8374.09
+Ischemic stroke,2010,50-54 years,Males,yld,13665.9
+Ischemic stroke,2010,55-59 years,Males,yld,20456.1
+Ischemic stroke,2010,60-64 years,Males,yld,26432
+Ischemic stroke,2010,65-69 years,Males,yld,29705.3
+Ischemic stroke,2010,70-74 years,Males,yld,30765.9
+Ischemic stroke,2010,75-79 years,Males,yld,38011.2
+Ischemic stroke,2010,80+ years,Males,yld,64444.1
+Ischemic stroke,2010,All ages,Males,yld,244830
+Ischemic stroke,2010,5-14 years,Males,yld,588.659
+Ischemic stroke,2010,Under 5 years,Females,yld,11.6298
+Ischemic stroke,2010,15-19 years,Females,yld,455.841
+Ischemic stroke,2010,20-24 years,Females,yld,426.31
+Ischemic stroke,2010,25-29 years,Females,yld,893.766
+Ischemic stroke,2010,30-34 years,Females,yld,1519.08
+Ischemic stroke,2010,35-39 years,Females,yld,2605.31
+Ischemic stroke,2010,40-44 years,Females,yld,4200.29
+Ischemic stroke,2010,45-49 years,Females,yld,7540.6
+Ischemic stroke,2010,50-54 years,Females,yld,12347.4
+Ischemic stroke,2010,55-59 years,Females,yld,18194.7
+Ischemic stroke,2010,60-64 years,Females,yld,23544.4
+Ischemic stroke,2010,65-69 years,Females,yld,27678.2
+Ischemic stroke,2010,70-74 years,Females,yld,31221.7
+Ischemic stroke,2010,75-79 years,Females,yld,42428.2
+Ischemic stroke,2010,80+ years,Females,yld,93215.8
+Ischemic stroke,2010,All ages,Females,yld,266681
+Ischemic stroke,2010,5-14 years,Females,yld,397.732
+Hemorrhagic stroke,2010,Under 5 years,Males,yld,4.47674
+Hemorrhagic stroke,2010,15-19 years,Males,yld,438.426
+Hemorrhagic stroke,2010,20-24 years,Males,yld,1101.91
+Hemorrhagic stroke,2010,25-29 years,Males,yld,1361.04
+Hemorrhagic stroke,2010,30-34 years,Males,yld,1618.66
+Hemorrhagic stroke,2010,35-39 years,Males,yld,2087.73
+Hemorrhagic stroke,2010,40-44 years,Males,yld,2654.71
+Hemorrhagic stroke,2010,45-49 years,Males,yld,4200.4
+Hemorrhagic stroke,2010,50-54 years,Males,yld,5829.13
+Hemorrhagic stroke,2010,55-59 years,Males,yld,7407.57
+Hemorrhagic stroke,2010,60-64 years,Males,yld,7101.04
+Hemorrhagic stroke,2010,65-69 years,Males,yld,5587.17
+Hemorrhagic stroke,2010,70-74 years,Males,yld,5034.37
+Hemorrhagic stroke,2010,75-79 years,Males,yld,4993.96
+Hemorrhagic stroke,2010,80+ years,Males,yld,5092.47
+Hemorrhagic stroke,2010,All ages,Males,yld,54689
+Hemorrhagic stroke,2010,5-14 years,Males,yld,175.947
+Hemorrhagic stroke,2010,Under 5 years,Females,yld,3.1498
+Hemorrhagic stroke,2010,15-19 years,Females,yld,295.874
+Hemorrhagic stroke,2010,20-24 years,Females,yld,773.035
+Hemorrhagic stroke,2010,25-29 years,Females,yld,1032.73
+Hemorrhagic stroke,2010,30-34 years,Females,yld,1410.75
+Hemorrhagic stroke,2010,35-39 years,Females,yld,2081.82
+Hemorrhagic stroke,2010,40-44 years,Females,yld,2935.21
+Hemorrhagic stroke,2010,45-49 years,Females,yld,4826.22
+Hemorrhagic stroke,2010,50-54 years,Females,yld,6627.34
+Hemorrhagic stroke,2010,55-59 years,Females,yld,8185.78
+Hemorrhagic stroke,2010,60-64 years,Females,yld,7558.88
+Hemorrhagic stroke,2010,65-69 years,Females,yld,6277.23
+Hemorrhagic stroke,2010,70-74 years,Females,yld,6154.39
+Hemorrhagic stroke,2010,75-79 years,Females,yld,6388.73
+Hemorrhagic stroke,2010,80+ years,Females,yld,7763.02
+Hemorrhagic stroke,2010,All ages,Females,yld,62449.9
+Hemorrhagic stroke,2010,5-14 years,Females,yld,135.762
+Hypertensive heart disease,2010,Under 5 years,Males,yld,3.79019
+Hypertensive heart disease,2010,15-19 years,Males,yld,25.9529
+Hypertensive heart disease,2010,20-24 years,Males,yld,56.6117
+Hypertensive heart disease,2010,25-29 years,Males,yld,86.9059
+Hypertensive heart disease,2010,30-34 years,Males,yld,116.866
+Hypertensive heart disease,2010,35-39 years,Males,yld,155.199
+Hypertensive heart disease,2010,40-44 years,Males,yld,267.239
+Hypertensive heart disease,2010,45-49 years,Males,yld,457.973
+Hypertensive heart disease,2010,50-54 years,Males,yld,588.825
+Hypertensive heart disease,2010,55-59 years,Males,yld,792.123
+Hypertensive heart disease,2010,60-64 years,Males,yld,897.586
+Hypertensive heart disease,2010,65-69 years,Males,yld,824.385
+Hypertensive heart disease,2010,70-74 years,Males,yld,801.829
+Hypertensive heart disease,2010,75-79 years,Males,yld,968.189
+Hypertensive heart disease,2010,80+ years,Males,yld,2050.46
+Hypertensive heart disease,2010,All ages,Males,yld,8109.89
+Hypertensive heart disease,2010,5-14 years,Males,yld,15.9569
+Hypertensive heart disease,2010,Under 5 years,Females,yld,2.40303
+Hypertensive heart disease,2010,15-19 years,Females,yld,19.2942
+Hypertensive heart disease,2010,20-24 years,Females,yld,43.2027
+Hypertensive heart disease,2010,25-29 years,Females,yld,74.2607
+Hypertensive heart disease,2010,30-34 years,Females,yld,115.512
+Hypertensive heart disease,2010,35-39 years,Females,yld,163.81
+Hypertensive heart disease,2010,40-44 years,Females,yld,304.026
+Hypertensive heart disease,2010,45-49 years,Females,yld,520.626
+Hypertensive heart disease,2010,50-54 years,Females,yld,673.511
+Hypertensive heart disease,2010,55-59 years,Females,yld,880.031
+Hypertensive heart disease,2010,60-64 years,Females,yld,1070.33
+Hypertensive heart disease,2010,65-69 years,Females,yld,1038.13
+Hypertensive heart disease,2010,70-74 years,Females,yld,1074.01
+Hypertensive heart disease,2010,75-79 years,Females,yld,1531.67
+Hypertensive heart disease,2010,80+ years,Females,yld,4634.14
+Hypertensive heart disease,2010,All ages,Females,yld,12156.4
+Hypertensive heart disease,2010,5-14 years,Females,yld,11.4907
+COPD,2010,Under 5 years,Males,yld,1274.15
+COPD,2010,15-19 years,Males,yld,18106
+COPD,2010,20-24 years,Males,yld,24909.9
+COPD,2010,25-29 years,Males,yld,31756.5
+COPD,2010,30-34 years,Males,yld,36774.3
+COPD,2010,35-39 years,Males,yld,43765.1
+COPD,2010,40-44 years,Males,yld,54261
+COPD,2010,45-49 years,Males,yld,70202.9
+COPD,2010,50-54 years,Males,yld,83304.5
+COPD,2010,55-59 years,Males,yld,88711.7
+COPD,2010,60-64 years,Males,yld,90245.2
+COPD,2010,65-69 years,Males,yld,75607.2
+COPD,2010,70-74 years,Males,yld,63074.4
+COPD,2010,75-79 years,Males,yld,53799.4
+COPD,2010,80+ years,Males,yld,77718.3
+COPD,2010,All ages,Males,yld,830470
+COPD,2010,5-14 years,Males,yld,16959.6
+COPD,2010,Under 5 years,Females,yld,1083
+COPD,2010,15-19 years,Females,yld,15393.5
+COPD,2010,20-24 years,Females,yld,21101.4
+COPD,2010,25-29 years,Females,yld,26869.7
+COPD,2010,30-34 years,Females,yld,32148.4
+COPD,2010,35-39 years,Females,yld,39774.4
+COPD,2010,40-44 years,Females,yld,50686.8
+COPD,2010,45-49 years,Females,yld,68114
+COPD,2010,50-54 years,Females,yld,83272.9
+COPD,2010,55-59 years,Females,yld,91374.3
+COPD,2010,60-64 years,Females,yld,96044.8
+COPD,2010,65-69 years,Females,yld,84282.4
+COPD,2010,70-74 years,Females,yld,74694.8
+COPD,2010,75-79 years,Females,yld,70219.6
+COPD,2010,80+ years,Females,yld,145331
+COPD,2010,All ages,Females,yld,914921
+COPD,2010,5-14 years,Females,yld,14529.8
+Asthma,2010,Under 5 years,Males,yld,10021.8
+Asthma,2010,15-19 years,Males,yld,47226.9
+Asthma,2010,20-24 years,Males,yld,31653.8
+Asthma,2010,25-29 years,Males,yld,24870
+Asthma,2010,30-34 years,Males,yld,20638.8
+Asthma,2010,35-39 years,Males,yld,19396.7
+Asthma,2010,40-44 years,Males,yld,19939.8
+Asthma,2010,45-49 years,Males,yld,21750.3
+Asthma,2010,50-54 years,Males,yld,21625.8
+Asthma,2010,55-59 years,Males,yld,19435.6
+Asthma,2010,60-64 years,Males,yld,17020.1
+Asthma,2010,65-69 years,Males,yld,12701.8
+Asthma,2010,70-74 years,Males,yld,9566.75
+Asthma,2010,75-79 years,Males,yld,7278.63
+Asthma,2010,80+ years,Males,yld,9382.69
+Asthma,2010,All ages,Males,yld,431350
+Asthma,2010,5-14 years,Males,yld,138840
+Asthma,2010,Under 5 years,Females,yld,9114.05
+Asthma,2010,15-19 years,Females,yld,49807.7
+Asthma,2010,20-24 years,Females,yld,34499
+Asthma,2010,25-29 years,Females,yld,27779.6
+Asthma,2010,30-34 years,Females,yld,24099.2
+Asthma,2010,35-39 years,Females,yld,23537.6
+Asthma,2010,40-44 years,Females,yld,25038
+Asthma,2010,45-49 years,Females,yld,28536.4
+Asthma,2010,50-54 years,Females,yld,29073.8
+Asthma,2010,55-59 years,Females,yld,26503.6
+Asthma,2010,60-64 years,Females,yld,23347.2
+Asthma,2010,65-69 years,Females,yld,17716.9
+Asthma,2010,70-74 years,Females,yld,13790.8
+Asthma,2010,75-79 years,Females,yld,11413.1
+Asthma,2010,80+ years,Females,yld,19505.4
+Asthma,2010,All ages,Females,yld,500661
+Asthma,2010,5-14 years,Females,yld,136898
+Other respiratory diseases,2010,Under 5 years,Males,yld,747.446
+Other respiratory diseases,2010,15-19 years,Males,yld,8834.61
+Other respiratory diseases,2010,20-24 years,Males,yld,9099.06
+Other respiratory diseases,2010,25-29 years,Males,yld,7550.44
+Other respiratory diseases,2010,30-34 years,Males,yld,8290.06
+Other respiratory diseases,2010,35-39 years,Males,yld,7318.01
+Other respiratory diseases,2010,40-44 years,Males,yld,6640.18
+Other respiratory diseases,2010,45-49 years,Males,yld,5443.17
+Other respiratory diseases,2010,50-54 years,Males,yld,4705.19
+Other respiratory diseases,2010,55-59 years,Males,yld,3870.84
+Other respiratory diseases,2010,60-64 years,Males,yld,3223.17
+Other respiratory diseases,2010,65-69 years,Males,yld,2268.81
+Other respiratory diseases,2010,70-74 years,Males,yld,1656.28
+Other respiratory diseases,2010,75-79 years,Males,yld,1438.67
+Other respiratory diseases,2010,80+ years,Males,yld,2420.95
+Other respiratory diseases,2010,All ages,Males,yld,82436.4
+Other respiratory diseases,2010,5-14 years,Males,yld,8929.47
+Other respiratory diseases,2010,Under 5 years,Females,yld,613.627
+Other respiratory diseases,2010,15-19 years,Females,yld,6268.83
+Other respiratory diseases,2010,20-24 years,Females,yld,7914.86
+Other respiratory diseases,2010,25-29 years,Females,yld,6913.93
+Other respiratory diseases,2010,30-34 years,Females,yld,6934.76
+Other respiratory diseases,2010,35-39 years,Females,yld,6385.66
+Other respiratory diseases,2010,40-44 years,Females,yld,4815.86
+Other respiratory diseases,2010,45-49 years,Females,yld,4515.93
+Other respiratory diseases,2010,50-54 years,Females,yld,4432.91
+Other respiratory diseases,2010,55-59 years,Females,yld,3721.76
+Other respiratory diseases,2010,60-64 years,Females,yld,3207.83
+Other respiratory diseases,2010,65-69 years,Females,yld,2167.77
+Other respiratory diseases,2010,70-74 years,Females,yld,1716.19
+Other respiratory diseases,2010,75-79 years,Females,yld,1632.32
+Other respiratory diseases,2010,80+ years,Females,yld,4212.5
+Other respiratory diseases,2010,All ages,Females,yld,72857.1
+Other respiratory diseases,2010,5-14 years,Females,yld,7402.34
+Alzheimers disease,2010,15-19 years,Males,yld,0
+Alzheimers disease,2010,20-24 years,Males,yld,0
+Alzheimers disease,2010,25-29 years,Males,yld,0
+Alzheimers disease,2010,30-34 years,Males,yld,0
+Alzheimers disease,2010,35-39 years,Males,yld,0
+Alzheimers disease,2010,40-44 years,Males,yld,294.927
+Alzheimers disease,2010,45-49 years,Males,yld,3108.84
+Alzheimers disease,2010,50-54 years,Males,yld,8180.92
+Alzheimers disease,2010,55-59 years,Males,yld,12588.8
+Alzheimers disease,2010,60-64 years,Males,yld,16275.7
+Alzheimers disease,2010,65-69 years,Males,yld,21237.4
+Alzheimers disease,2010,70-74 years,Males,yld,29760.7
+Alzheimers disease,2010,75-79 years,Males,yld,41932.8
+Alzheimers disease,2010,80+ years,Males,yld,172288
+Alzheimers disease,2010,All ages,Males,yld,305668
+Alzheimers disease,2010,5-14 years,Males,yld,0
+Alzheimers disease,2010,15-19 years,Females,yld,0
+Alzheimers disease,2010,20-24 years,Females,yld,0
+Alzheimers disease,2010,25-29 years,Females,yld,0
+Alzheimers disease,2010,30-34 years,Females,yld,0
+Alzheimers disease,2010,35-39 years,Females,yld,0
+Alzheimers disease,2010,40-44 years,Females,yld,344.996
+Alzheimers disease,2010,45-49 years,Females,yld,3866.96
+Alzheimers disease,2010,50-54 years,Females,yld,10854.4
+Alzheimers disease,2010,55-59 years,Females,yld,17972.6
+Alzheimers disease,2010,60-64 years,Females,yld,23142.4
+Alzheimers disease,2010,65-69 years,Females,yld,28591.7
+Alzheimers disease,2010,70-74 years,Females,yld,40380.7
+Alzheimers disease,2010,75-79 years,Females,yld,62266.2
+Alzheimers disease,2010,80+ years,Females,yld,336824
+Alzheimers disease,2010,All ages,Females,yld,524244
+Alzheimers disease,2010,5-14 years,Females,yld,0
+Unipolar depressive disorders,2010,Under 5 years,Males,yld,54.7239
+Unipolar depressive disorders,2010,15-19 years,Males,yld,90328.2
+Unipolar depressive disorders,2010,20-24 years,Males,yld,103313
+Unipolar depressive disorders,2010,25-29 years,Males,yld,111359
+Unipolar depressive disorders,2010,30-34 years,Males,yld,110112
+Unipolar depressive disorders,2010,35-39 years,Males,yld,111492
+Unipolar depressive disorders,2010,40-44 years,Males,yld,118208
+Unipolar depressive disorders,2010,45-49 years,Males,yld,128274
+Unipolar depressive disorders,2010,50-54 years,Males,yld,124802
+Unipolar depressive disorders,2010,55-59 years,Males,yld,106435
+Unipolar depressive disorders,2010,60-64 years,Males,yld,81710.5
+Unipolar depressive disorders,2010,65-69 years,Males,yld,51991.2
+Unipolar depressive disorders,2010,70-74 years,Males,yld,34550.8
+Unipolar depressive disorders,2010,75-79 years,Males,yld,27145.9
+Unipolar depressive disorders,2010,80+ years,Males,yld,35935.2
+Unipolar depressive disorders,2010,All ages,Males,yld,1334690
+Unipolar depressive disorders,2010,5-14 years,Males,yld,98976.7
+Unipolar depressive disorders,2010,Under 5 years,Females,yld,91.264
+Unipolar depressive disorders,2010,15-19 years,Females,yld,140614
+Unipolar depressive disorders,2010,20-24 years,Females,yld,157733
+Unipolar depressive disorders,2010,25-29 years,Females,yld,170336
+Unipolar depressive disorders,2010,30-34 years,Females,yld,173388
+Unipolar depressive disorders,2010,35-39 years,Females,yld,178660
+Unipolar depressive disorders,2010,40-44 years,Females,yld,192343
+Unipolar depressive disorders,2010,45-49 years,Females,yld,214344
+Unipolar depressive disorders,2010,50-54 years,Females,yld,212649
+Unipolar depressive disorders,2010,55-59 years,Females,yld,186057
+Unipolar depressive disorders,2010,60-64 years,Females,yld,146462
+Unipolar depressive disorders,2010,65-69 years,Females,yld,97598.8
+Unipolar depressive disorders,2010,70-74 years,Females,yld,68940.1
+Unipolar depressive disorders,2010,75-79 years,Females,yld,59616
+Unipolar depressive disorders,2010,80+ years,Females,yld,104363
+Unipolar depressive disorders,2010,All ages,Females,yld,2259680
+Unipolar depressive disorders,2010,5-14 years,Females,yld,156479
+Diabetes,2010,Under 5 years,Males,yld,2794.14
+Diabetes,2010,15-19 years,Males,yld,4344.82
+Diabetes,2010,20-24 years,Males,yld,5650.56
+Diabetes,2010,25-29 years,Males,yld,9368.39
+Diabetes,2010,30-34 years,Males,yld,15345
+Diabetes,2010,35-39 years,Males,yld,24765.5
+Diabetes,2010,40-44 years,Males,yld,38021.7
+Diabetes,2010,45-49 years,Males,yld,54728.5
+Diabetes,2010,50-54 years,Males,yld,67715.4
+Diabetes,2010,55-59 years,Males,yld,71737.9
+Diabetes,2010,60-64 years,Males,yld,71267.4
+Diabetes,2010,65-69 years,Males,yld,58800.5
+Diabetes,2010,70-74 years,Males,yld,48169.4
+Diabetes,2010,75-79 years,Males,yld,39424.9
+Diabetes,2010,80+ years,Males,yld,52907.9
+Diabetes,2010,All ages,Males,yld,571509
+Diabetes,2010,5-14 years,Males,yld,6466.73
+Diabetes,2010,Under 5 years,Females,yld,2343.74
+Diabetes,2010,15-19 years,Females,yld,4134.65
+Diabetes,2010,20-24 years,Females,yld,5169.95
+Diabetes,2010,25-29 years,Females,yld,8243.9
+Diabetes,2010,30-34 years,Females,yld,13261.5
+Diabetes,2010,35-39 years,Females,yld,21292.7
+Diabetes,2010,40-44 years,Females,yld,33019.3
+Diabetes,2010,45-49 years,Females,yld,48615.7
+Diabetes,2010,50-54 years,Females,yld,61632.8
+Diabetes,2010,55-59 years,Females,yld,67711.8
+Diabetes,2010,60-64 years,Females,yld,70122.8
+Diabetes,2010,65-69 years,Females,yld,61644
+Diabetes,2010,70-74 years,Females,yld,54121.4
+Diabetes,2010,75-79 years,Females,yld,48922.7
+Diabetes,2010,80+ years,Females,yld,87198
+Diabetes,2010,All ages,Females,yld,593353
+Diabetes,2010,5-14 years,Females,yld,5917.75
+Road injury,2010,Under 5 years,Males,yld,492.433
+Road injury,2010,15-19 years,Males,yld,10949.5
+Road injury,2010,20-24 years,Males,yld,16102.4
+Road injury,2010,25-29 years,Males,yld,20115.7
+Road injury,2010,30-34 years,Males,yld,21460.7
+Road injury,2010,35-39 years,Males,yld,23054.1
+Road injury,2010,40-44 years,Males,yld,24593.5
+Road injury,2010,45-49 years,Males,yld,26541.6
+Road injury,2010,50-54 years,Males,yld,25647.2
+Road injury,2010,55-59 years,Males,yld,21769.4
+Road injury,2010,60-64 years,Males,yld,17234.7
+Road injury,2010,65-69 years,Males,yld,11746.7
+Road injury,2010,70-74 years,Males,yld,8543.34
+Road injury,2010,75-79 years,Males,yld,5903.86
+Road injury,2010,80+ years,Males,yld,6776.65
+Road injury,2010,All ages,Males,yld,249253
+Road injury,2010,5-14 years,Males,yld,8320.91
+Road injury,2010,Under 5 years,Females,yld,278.976
+Road injury,2010,15-19 years,Females,yld,5618.92
+Road injury,2010,20-24 years,Females,yld,7893.79
+Road injury,2010,25-29 years,Females,yld,9622.89
+Road injury,2010,30-34 years,Females,yld,10242.6
+Road injury,2010,35-39 years,Females,yld,10900.7
+Road injury,2010,40-44 years,Females,yld,11906.4
+Road injury,2010,45-49 years,Females,yld,13056.5
+Road injury,2010,50-54 years,Females,yld,12216.8
+Road injury,2010,55-59 years,Females,yld,10503.7
+Road injury,2010,60-64 years,Females,yld,8241.1
+Road injury,2010,65-69 years,Females,yld,5744.1
+Road injury,2010,70-74 years,Females,yld,4503.92
+Road injury,2010,75-79 years,Females,yld,3450.61
+Road injury,2010,80+ years,Females,yld,5112.56
+Road injury,2010,All ages,Females,yld,123810
+Road injury,2010,5-14 years,Females,yld,4516.32
+Pedestrian road injury,2010,Under 5 years,Males,yld,237.831
+Pedestrian road injury,2010,15-19 years,Males,yld,748.81
+Pedestrian road injury,2010,20-24 years,Males,yld,1150.93
+Pedestrian road injury,2010,25-29 years,Males,yld,1806.36
+Pedestrian road injury,2010,30-34 years,Males,yld,2402.93
+Pedestrian road injury,2010,35-39 years,Males,yld,3025.05
+Pedestrian road injury,2010,40-44 years,Males,yld,3678.75
+Pedestrian road injury,2010,45-49 years,Males,yld,4378.01
+Pedestrian road injury,2010,50-54 years,Males,yld,4576.2
+Pedestrian road injury,2010,55-59 years,Males,yld,3759.2
+Pedestrian road injury,2010,60-64 years,Males,yld,3102.73
+Pedestrian road injury,2010,65-69 years,Males,yld,2332.2
+Pedestrian road injury,2010,70-74 years,Males,yld,1761.34
+Pedestrian road injury,2010,75-79 years,Males,yld,1228.55
+Pedestrian road injury,2010,80+ years,Males,yld,1515.17
+Pedestrian road injury,2010,All ages,Males,yld,37898
+Pedestrian road injury,2010,5-14 years,Males,yld,2193.93
+Pedestrian road injury,2010,Under 5 years,Females,yld,103.082
+Pedestrian road injury,2010,15-19 years,Females,yld,364.382
+Pedestrian road injury,2010,20-24 years,Females,yld,613.948
+Pedestrian road injury,2010,25-29 years,Females,yld,937.786
+Pedestrian road injury,2010,30-34 years,Females,yld,1175.11
+Pedestrian road injury,2010,35-39 years,Females,yld,1371.63
+Pedestrian road injury,2010,40-44 years,Females,yld,1729.59
+Pedestrian road injury,2010,45-49 years,Females,yld,1958.11
+Pedestrian road injury,2010,50-54 years,Females,yld,1812.34
+Pedestrian road injury,2010,55-59 years,Females,yld,1781.41
+Pedestrian road injury,2010,60-64 years,Females,yld,1363.54
+Pedestrian road injury,2010,65-69 years,Females,yld,1087.45
+Pedestrian road injury,2010,70-74 years,Females,yld,848.387
+Pedestrian road injury,2010,75-79 years,Females,yld,701.367
+Pedestrian road injury,2010,80+ years,Females,yld,1090.01
+Pedestrian road injury,2010,All ages,Females,yld,17862.5
+Pedestrian road injury,2010,5-14 years,Females,yld,924.344
+Other road injury,2010,Under 5 years,Males,yld,2.85902
+Other road injury,2010,15-19 years,Males,yld,9.80459
+Other road injury,2010,20-24 years,Males,yld,12.4658
+Other road injury,2010,25-29 years,Males,yld,19.7369
+Other road injury,2010,30-34 years,Males,yld,21.8378
+Other road injury,2010,35-39 years,Males,yld,35.3188
+Other road injury,2010,40-44 years,Males,yld,41.0988
+Other road injury,2010,45-49 years,Males,yld,61.4312
+Other road injury,2010,50-54 years,Males,yld,68.7335
+Other road injury,2010,55-59 years,Males,yld,73.099
+Other road injury,2010,60-64 years,Males,yld,64.0441
+Other road injury,2010,65-69 years,Males,yld,58.521
+Other road injury,2010,70-74 years,Males,yld,41.8649
+Other road injury,2010,75-79 years,Males,yld,19.1911
+Other road injury,2010,80+ years,Males,yld,16.0701
+Other road injury,2010,All ages,Males,yld,598.865
+Other road injury,2010,5-14 years,Males,yld,52.7881
+Other road injury,2010,Under 5 years,Females,yld,1.33747
+Other road injury,2010,15-19 years,Females,yld,7.34502
+Other road injury,2010,20-24 years,Females,yld,12.1429
+Other road injury,2010,25-29 years,Females,yld,16.8064
+Other road injury,2010,30-34 years,Females,yld,23.4289
+Other road injury,2010,35-39 years,Females,yld,32.4886
+Other road injury,2010,40-44 years,Females,yld,32.5325
+Other road injury,2010,45-49 years,Females,yld,47.5978
+Other road injury,2010,50-54 years,Females,yld,57.7674
+Other road injury,2010,55-59 years,Females,yld,48.1681
+Other road injury,2010,60-64 years,Females,yld,38.119
+Other road injury,2010,65-69 years,Females,yld,23.1492
+Other road injury,2010,70-74 years,Females,yld,11.3436
+Other road injury,2010,75-79 years,Females,yld,7.96731
+Other road injury,2010,80+ years,Females,yld,8.69211
+Other road injury,2010,All ages,Females,yld,405.039
+Other road injury,2010,5-14 years,Females,yld,36.1534
+Lower respiratory infections,2010,Under 5 years,Males,yll,29598.3
+Lower respiratory infections,2010,15-19 years,Males,yll,4099.35
+Lower respiratory infections,2010,20-24 years,Males,yll,6802.24
+Lower respiratory infections,2010,25-29 years,Males,yll,7795.79
+Lower respiratory infections,2010,30-34 years,Males,yll,8584.09
+Lower respiratory infections,2010,35-39 years,Males,yll,11299
+Lower respiratory infections,2010,40-44 years,Males,yll,18225
+Lower respiratory infections,2010,45-49 years,Males,yll,26185.4
+Lower respiratory infections,2010,50-54 years,Males,yll,34696.8
+Lower respiratory infections,2010,55-59 years,Males,yll,39076.5
+Lower respiratory infections,2010,60-64 years,Males,yll,45142.7
+Lower respiratory infections,2010,65-69 years,Males,yll,44748.7
+Lower respiratory infections,2010,70-74 years,Males,yll,49743.1
+Lower respiratory infections,2010,75-79 years,Males,yll,57344.3
+Lower respiratory infections,2010,80+ years,Males,yll,151231
+Lower respiratory infections,2010,All ages,Males,yll,539362
+Lower respiratory infections,2010,5-14 years,Males,yll,4789.35
+Lower respiratory infections,2010,Under 5 years,Females,yll,23214.3
+Lower respiratory infections,2010,15-19 years,Females,yll,3619.87
+Lower respiratory infections,2010,20-24 years,Females,yll,5321.6
+Lower respiratory infections,2010,25-29 years,Females,yll,6116.62
+Lower respiratory infections,2010,30-34 years,Females,yll,7228.97
+Lower respiratory infections,2010,35-39 years,Females,yll,9884.2
+Lower respiratory infections,2010,40-44 years,Females,yll,14935.9
+Lower respiratory infections,2010,45-49 years,Females,yll,21341.5
+Lower respiratory infections,2010,50-54 years,Females,yll,26326.2
+Lower respiratory infections,2010,55-59 years,Females,yll,29658.2
+Lower respiratory infections,2010,60-64 years,Females,yll,34955.4
+Lower respiratory infections,2010,65-69 years,Females,yll,35083.9
+Lower respiratory infections,2010,70-74 years,Females,yll,39806
+Lower respiratory infections,2010,75-79 years,Females,yll,48685.7
+Lower respiratory infections,2010,80+ years,Females,yll,181293
+Lower respiratory infections,2010,All ages,Females,yll,492443
+Lower respiratory infections,2010,5-14 years,Females,yll,4971.78
+Upper respiratory infections,2010,Under 5 years,Males,yll,140.481
+Upper respiratory infections,2010,15-19 years,Males,yll,43.803
+Upper respiratory infections,2010,20-24 years,Males,yll,48.9484
+Upper respiratory infections,2010,25-29 years,Males,yll,36.2833
+Upper respiratory infections,2010,30-34 years,Males,yll,25.9813
+Upper respiratory infections,2010,35-39 years,Males,yll,25.6102
+Upper respiratory infections,2010,40-44 years,Males,yll,37.4616
+Upper respiratory infections,2010,45-49 years,Males,yll,68.5628
+Upper respiratory infections,2010,50-54 years,Males,yll,103.922
+Upper respiratory infections,2010,55-59 years,Males,yll,103.672
+Upper respiratory infections,2010,60-64 years,Males,yll,98.59
+Upper respiratory infections,2010,65-69 years,Males,yll,71.2643
+Upper respiratory infections,2010,70-74 years,Males,yll,67.6506
+Upper respiratory infections,2010,75-79 years,Males,yll,75.5138
+Upper respiratory infections,2010,80+ years,Males,yll,216.097
+Upper respiratory infections,2010,All ages,Males,yll,1349.64
+Upper respiratory infections,2010,5-14 years,Males,yll,185.801
+Upper respiratory infections,2010,Under 5 years,Females,yll,117.916
+Upper respiratory infections,2010,15-19 years,Females,yll,38.6796
+Upper respiratory infections,2010,20-24 years,Females,yll,38.2938
+Upper respiratory infections,2010,25-29 years,Females,yll,28.4681
+Upper respiratory infections,2010,30-34 years,Females,yll,21.8797
+Upper respiratory infections,2010,35-39 years,Females,yll,22.4034
+Upper respiratory infections,2010,40-44 years,Females,yll,30.701
+Upper respiratory infections,2010,45-49 years,Females,yll,55.8795
+Upper respiratory infections,2010,50-54 years,Females,yll,78.8506
+Upper respiratory infections,2010,55-59 years,Females,yll,78.6848
+Upper respiratory infections,2010,60-64 years,Females,yll,76.3414
+Upper respiratory infections,2010,65-69 years,Females,yll,55.8727
+Upper respiratory infections,2010,70-74 years,Females,yll,54.1361
+Upper respiratory infections,2010,75-79 years,Females,yll,64.1117
+Upper respiratory infections,2010,80+ years,Females,yll,259.052
+Upper respiratory infections,2010,All ages,Females,yll,1207.75
+Upper respiratory infections,2010,5-14 years,Females,yll,186.476
+Lung cancer,2010,15-19 years,Males,yll,385.016
+Lung cancer,2010,20-24 years,Males,yll,883.75
+Lung cancer,2010,25-29 years,Males,yll,1715.65
+Lung cancer,2010,30-34 years,Males,yll,3690.53
+Lung cancer,2010,35-39 years,Males,yll,9356.76
+Lung cancer,2010,40-44 years,Males,yll,31139.9
+Lung cancer,2010,45-49 years,Males,yll,85531.3
+Lung cancer,2010,50-54 years,Males,yll,171800
+Lung cancer,2010,55-59 years,Males,yll,241655
+Lung cancer,2010,60-64 years,Males,yll,312680
+Lung cancer,2010,65-69 years,Males,yll,296675
+Lung cancer,2010,70-74 years,Males,yll,239161
+Lung cancer,2010,75-79 years,Males,yll,176695
+Lung cancer,2010,80+ years,Males,yll,137624
+Lung cancer,2010,All ages,Males,yll,1708990
+Lung cancer,2010,15-19 years,Females,yll,232.681
+Lung cancer,2010,20-24 years,Females,yll,670.668
+Lung cancer,2010,25-29 years,Females,yll,1433.84
+Lung cancer,2010,30-34 years,Females,yll,3726.51
+Lung cancer,2010,35-39 years,Females,yll,9995.55
+Lung cancer,2010,40-44 years,Females,yll,31167.6
+Lung cancer,2010,45-49 years,Females,yll,78062.1
+Lung cancer,2010,50-54 years,Females,yll,129104
+Lung cancer,2010,55-59 years,Females,yll,172601
+Lung cancer,2010,60-64 years,Females,yll,224184
+Lung cancer,2010,65-69 years,Females,yll,216186
+Lung cancer,2010,70-74 years,Females,yll,176805
+Lung cancer,2010,75-79 years,Females,yll,132681
+Lung cancer,2010,80+ years,Females,yll,101893
+Lung cancer,2010,All ages,Females,yll,1278740
+Breast cancer,2010,15-19 years,Females,yll,102.835
+Breast cancer,2010,20-24 years,Females,yll,945.554
+Breast cancer,2010,25-29 years,Females,yll,4616.75
+Breast cancer,2010,30-34 years,Females,yll,15891.5
+Breast cancer,2010,35-39 years,Females,yll,36013.1
+Breast cancer,2010,40-44 years,Females,yll,64442.6
+Breast cancer,2010,45-49 years,Females,yll,101225
+Breast cancer,2010,50-54 years,Females,yll,127826
+Breast cancer,2010,55-59 years,Females,yll,131981
+Breast cancer,2010,60-64 years,Females,yll,128870
+Breast cancer,2010,65-69 years,Females,yll,94303.7
+Breast cancer,2010,70-74 years,Females,yll,69253.6
+Breast cancer,2010,75-79 years,Females,yll,53620.3
+Breast cancer,2010,80+ years,Females,yll,62575
+Breast cancer,2010,All ages,Females,yll,891667
+Colorectal cancer,2010,15-19 years,Males,yll,691.754
+Colorectal cancer,2010,20-24 years,Males,yll,1683.77
+Colorectal cancer,2010,25-29 years,Males,yll,3936.58
+Colorectal cancer,2010,30-34 years,Males,yll,6258.01
+Colorectal cancer,2010,35-39 years,Males,yll,10702.1
+Colorectal cancer,2010,40-44 years,Males,yll,20693
+Colorectal cancer,2010,45-49 years,Males,yll,40386.9
+Colorectal cancer,2010,50-54 years,Males,yll,62749.1
+Colorectal cancer,2010,55-59 years,Males,yll,78346.4
+Colorectal cancer,2010,60-64 years,Males,yll,89991.2
+Colorectal cancer,2010,65-69 years,Males,yll,80272.1
+Colorectal cancer,2010,70-74 years,Males,yll,68820.9
+Colorectal cancer,2010,75-79 years,Males,yll,54949.6
+Colorectal cancer,2010,80+ years,Males,yll,62005.5
+Colorectal cancer,2010,All ages,Males,yll,581487
+Colorectal cancer,2010,15-19 years,Females,yll,379.683
+Colorectal cancer,2010,20-24 years,Females,yll,1065.1
+Colorectal cancer,2010,25-29 years,Females,yll,2691.48
+Colorectal cancer,2010,30-34 years,Females,yll,5388.78
+Colorectal cancer,2010,35-39 years,Females,yll,9224.97
+Colorectal cancer,2010,40-44 years,Females,yll,18255.8
+Colorectal cancer,2010,45-49 years,Females,yll,33115.6
+Colorectal cancer,2010,50-54 years,Females,yll,50138.4
+Colorectal cancer,2010,55-59 years,Females,yll,59441
+Colorectal cancer,2010,60-64 years,Females,yll,66055.6
+Colorectal cancer,2010,65-69 years,Females,yll,60907
+Colorectal cancer,2010,70-74 years,Females,yll,56237.6
+Colorectal cancer,2010,75-79 years,Females,yll,51811.1
+Colorectal cancer,2010,80+ years,Females,yll,77397.7
+Colorectal cancer,2010,All ages,Females,yll,492110
+Rheumatic heart disease,2010,Under 5 years,Males,yll,129.722
+Rheumatic heart disease,2010,15-19 years,Males,yll,256.522
+Rheumatic heart disease,2010,20-24 years,Males,yll,378.637
+Rheumatic heart disease,2010,25-29 years,Males,yll,596.696
+Rheumatic heart disease,2010,30-34 years,Males,yll,732.809
+Rheumatic heart disease,2010,35-39 years,Males,yll,872.381
+Rheumatic heart disease,2010,40-44 years,Males,yll,1294.14
+Rheumatic heart disease,2010,45-49 years,Males,yll,2234.64
+Rheumatic heart disease,2010,50-54 years,Males,yll,2619.54
+Rheumatic heart disease,2010,55-59 years,Males,yll,2989.44
+Rheumatic heart disease,2010,60-64 years,Males,yll,3370.81
+Rheumatic heart disease,2010,65-69 years,Males,yll,3198.27
+Rheumatic heart disease,2010,70-74 years,Males,yll,3270.35
+Rheumatic heart disease,2010,75-79 years,Males,yll,3544.72
+Rheumatic heart disease,2010,80+ years,Males,yll,7166.83
+Rheumatic heart disease,2010,All ages,Males,yll,32816.7
+Rheumatic heart disease,2010,5-14 years,Males,yll,161.212
+Rheumatic heart disease,2010,Under 5 years,Females,yll,94.885
+Rheumatic heart disease,2010,15-19 years,Females,yll,180.542
+Rheumatic heart disease,2010,20-24 years,Females,yll,403.728
+Rheumatic heart disease,2010,25-29 years,Females,yll,556.132
+Rheumatic heart disease,2010,30-34 years,Females,yll,641.65
+Rheumatic heart disease,2010,35-39 years,Females,yll,934.153
+Rheumatic heart disease,2010,40-44 years,Females,yll,1752.04
+Rheumatic heart disease,2010,45-49 years,Females,yll,2611.12
+Rheumatic heart disease,2010,50-54 years,Females,yll,3038.1
+Rheumatic heart disease,2010,55-59 years,Females,yll,3917.57
+Rheumatic heart disease,2010,60-64 years,Females,yll,5059.27
+Rheumatic heart disease,2010,65-69 years,Females,yll,5044.8
+Rheumatic heart disease,2010,70-74 years,Females,yll,5773.34
+Rheumatic heart disease,2010,75-79 years,Females,yll,6119.69
+Rheumatic heart disease,2010,80+ years,Females,yll,16628.2
+Rheumatic heart disease,2010,All ages,Females,yll,52906.5
+Rheumatic heart disease,2010,5-14 years,Females,yll,151.247
+Ischemic heart disease,2010,Under 5 years,Males,yll,6657.37
+Ischemic heart disease,2010,15-19 years,Males,yll,6117.72
+Ischemic heart disease,2010,20-24 years,Males,yll,11561.4
+Ischemic heart disease,2010,25-29 years,Males,yll,19550.4
+Ischemic heart disease,2010,30-34 years,Males,yll,34464.7
+Ischemic heart disease,2010,35-39 years,Males,yll,66886
+Ischemic heart disease,2010,40-44 years,Males,yll,150842
+Ischemic heart disease,2010,45-49 years,Males,yll,289955
+Ischemic heart disease,2010,50-54 years,Males,yll,447624
+Ischemic heart disease,2010,55-59 years,Males,yll,510350
+Ischemic heart disease,2010,60-64 years,Males,yll,573644
+Ischemic heart disease,2010,65-69 years,Males,yll,498626
+Ischemic heart disease,2010,70-74 years,Males,yll,455436
+Ischemic heart disease,2010,75-79 years,Males,yll,430848
+Ischemic heart disease,2010,80+ years,Males,yll,809099
+Ischemic heart disease,2010,All ages,Males,yll,4315060
+Ischemic heart disease,2010,5-14 years,Males,yll,3401.45
+Ischemic heart disease,2010,Under 5 years,Females,yll,5196.62
+Ischemic heart disease,2010,15-19 years,Females,yll,2764.95
+Ischemic heart disease,2010,20-24 years,Females,yll,4801.83
+Ischemic heart disease,2010,25-29 years,Females,yll,7540.24
+Ischemic heart disease,2010,30-34 years,Females,yll,13150.6
+Ischemic heart disease,2010,35-39 years,Females,yll,26080.7
+Ischemic heart disease,2010,40-44 years,Females,yll,55647.3
+Ischemic heart disease,2010,45-49 years,Females,yll,101428
+Ischemic heart disease,2010,50-54 years,Females,yll,152292
+Ischemic heart disease,2010,55-59 years,Females,yll,198377
+Ischemic heart disease,2010,60-64 years,Females,yll,263027
+Ischemic heart disease,2010,65-69 years,Females,yll,271455
+Ischemic heart disease,2010,70-74 years,Females,yll,297658
+Ischemic heart disease,2010,75-79 years,Females,yll,344436
+Ischemic heart disease,2010,80+ years,Females,yll,1103260
+Ischemic heart disease,2010,All ages,Females,yll,2849450
+Ischemic heart disease,2010,5-14 years,Females,yll,2337.22
+Stroke,2010,Under 5 years,Males,yll,8375.18
+Stroke,2010,15-19 years,Males,yll,2987.43
+Stroke,2010,20-24 years,Males,yll,5295.4
+Stroke,2010,25-29 years,Males,yll,6638.73
+Stroke,2010,30-34 years,Males,yll,9577.06
+Stroke,2010,35-39 years,Males,yll,15851.3
+Stroke,2010,40-44 years,Males,yll,29227.5
+Stroke,2010,45-49 years,Males,yll,50369.3
+Stroke,2010,50-54 years,Males,yll,70769.3
+Stroke,2010,55-59 years,Males,yll,77254.4
+Stroke,2010,60-64 years,Males,yll,91067.6
+Stroke,2010,65-69 years,Males,yll,89856.1
+Stroke,2010,70-74 years,Males,yll,96597.8
+Stroke,2010,75-79 years,Males,yll,107701
+Stroke,2010,80+ years,Males,yll,231419
+Stroke,2010,All ages,Males,yll,896136
+Stroke,2010,5-14 years,Males,yll,3149.06
+Stroke,2010,Under 5 years,Females,yll,6385.72
+Stroke,2010,15-19 years,Females,yll,2407.63
+Stroke,2010,20-24 years,Females,yll,3849.07
+Stroke,2010,25-29 years,Females,yll,5465.35
+Stroke,2010,30-34 years,Females,yll,8706.52
+Stroke,2010,35-39 years,Females,yll,14979.6
+Stroke,2010,40-44 years,Females,yll,28652.8
+Stroke,2010,45-49 years,Females,yll,46509.4
+Stroke,2010,50-54 years,Females,yll,58578.3
+Stroke,2010,55-59 years,Females,yll,63042.6
+Stroke,2010,60-64 years,Females,yll,77047.6
+Stroke,2010,65-69 years,Females,yll,81880.3
+Stroke,2010,70-74 years,Females,yll,98141.9
+Stroke,2010,75-79 years,Females,yll,126506
+Stroke,2010,80+ years,Females,yll,424197
+Stroke,2010,All ages,Females,yll,1049190
+Stroke,2010,5-14 years,Females,yll,2840.23
+Ischemic stroke,2010,Under 5 years,Males,yll,3591.7
+Ischemic stroke,2010,15-19 years,Males,yll,589.309
+Ischemic stroke,2010,20-24 years,Males,yll,876.097
+Ischemic stroke,2010,25-29 years,Males,yll,1016.85
+Ischemic stroke,2010,30-34 years,Males,yll,1508.83
+Ischemic stroke,2010,35-39 years,Males,yll,2352.4
+Ischemic stroke,2010,40-44 years,Males,yll,4495.33
+Ischemic stroke,2010,45-49 years,Males,yll,8623.02
+Ischemic stroke,2010,50-54 years,Males,yll,13705.4
+Ischemic stroke,2010,55-59 years,Males,yll,19629.9
+Ischemic stroke,2010,60-64 years,Males,yll,33923.5
+Ischemic stroke,2010,65-69 years,Males,yll,38784
+Ischemic stroke,2010,70-74 years,Males,yll,52795.9
+Ischemic stroke,2010,75-79 years,Males,yll,77992.9
+Ischemic stroke,2010,80+ years,Males,yll,198509
+Ischemic stroke,2010,All ages,Males,yll,459349
+Ischemic stroke,2010,5-14 years,Males,yll,955.076
+Ischemic stroke,2010,Under 5 years,Females,yll,2999.89
+Ischemic stroke,2010,15-19 years,Females,yll,478.367
+Ischemic stroke,2010,20-24 years,Females,yll,676.041
+Ischemic stroke,2010,25-29 years,Females,yll,870.663
+Ischemic stroke,2010,30-34 years,Females,yll,1226.02
+Ischemic stroke,2010,35-39 years,Females,yll,1938.1
+Ischemic stroke,2010,40-44 years,Females,yll,3489.64
+Ischemic stroke,2010,45-49 years,Females,yll,5752.58
+Ischemic stroke,2010,50-54 years,Females,yll,8984.72
+Ischemic stroke,2010,55-59 years,Females,yll,12217.4
+Ischemic stroke,2010,60-64 years,Females,yll,22704.3
+Ischemic stroke,2010,65-69 years,Females,yll,33012.9
+Ischemic stroke,2010,70-74 years,Females,yll,45250.8
+Ischemic stroke,2010,75-79 years,Females,yll,91698.6
+Ischemic stroke,2010,80+ years,Females,yll,366763
+Ischemic stroke,2010,All ages,Females,yll,598858
+Ischemic stroke,2010,5-14 years,Females,yll,795.004
+Hemorrhagic stroke,2010,Under 5 years,Males,yll,4783.47
+Hemorrhagic stroke,2010,15-19 years,Males,yll,2398.12
+Hemorrhagic stroke,2010,20-24 years,Males,yll,4419.31
+Hemorrhagic stroke,2010,25-29 years,Males,yll,5621.88
+Hemorrhagic stroke,2010,30-34 years,Males,yll,8068.24
+Hemorrhagic stroke,2010,35-39 years,Males,yll,13498.9
+Hemorrhagic stroke,2010,40-44 years,Males,yll,24732.2
+Hemorrhagic stroke,2010,45-49 years,Males,yll,41746.3
+Hemorrhagic stroke,2010,50-54 years,Males,yll,57063.9
+Hemorrhagic stroke,2010,55-59 years,Males,yll,57624.5
+Hemorrhagic stroke,2010,60-64 years,Males,yll,57144.1
+Hemorrhagic stroke,2010,65-69 years,Males,yll,51072.1
+Hemorrhagic stroke,2010,70-74 years,Males,yll,43801.9
+Hemorrhagic stroke,2010,75-79 years,Males,yll,29708.1
+Hemorrhagic stroke,2010,80+ years,Males,yll,32910.2
+Hemorrhagic stroke,2010,All ages,Males,yll,436787
+Hemorrhagic stroke,2010,5-14 years,Males,yll,2193.98
+Hemorrhagic stroke,2010,Under 5 years,Females,yll,3385.84
+Hemorrhagic stroke,2010,15-19 years,Females,yll,1929.26
+Hemorrhagic stroke,2010,20-24 years,Females,yll,3173.03
+Hemorrhagic stroke,2010,25-29 years,Females,yll,4594.69
+Hemorrhagic stroke,2010,30-34 years,Females,yll,7480.5
+Hemorrhagic stroke,2010,35-39 years,Females,yll,13041.5
+Hemorrhagic stroke,2010,40-44 years,Females,yll,25163.1
+Hemorrhagic stroke,2010,45-49 years,Females,yll,40756.8
+Hemorrhagic stroke,2010,50-54 years,Females,yll,49593.6
+Hemorrhagic stroke,2010,55-59 years,Females,yll,50825.1
+Hemorrhagic stroke,2010,60-64 years,Females,yll,54343.4
+Hemorrhagic stroke,2010,65-69 years,Females,yll,48867.4
+Hemorrhagic stroke,2010,70-74 years,Females,yll,52891.1
+Hemorrhagic stroke,2010,75-79 years,Females,yll,34807.5
+Hemorrhagic stroke,2010,80+ years,Females,yll,57434.1
+Hemorrhagic stroke,2010,All ages,Females,yll,450332
+Hemorrhagic stroke,2010,5-14 years,Females,yll,2045.22
+Hypertensive heart disease,2010,Under 5 years,Males,yll,1001.78
+Hypertensive heart disease,2010,15-19 years,Males,yll,879.812
+Hypertensive heart disease,2010,20-24 years,Males,yll,2242.49
+Hypertensive heart disease,2010,25-29 years,Males,yll,4203.16
+Hypertensive heart disease,2010,30-34 years,Males,yll,6807.76
+Hypertensive heart disease,2010,35-39 years,Males,yll,12086.2
+Hypertensive heart disease,2010,40-44 years,Males,yll,22234
+Hypertensive heart disease,2010,45-49 years,Males,yll,37426.8
+Hypertensive heart disease,2010,50-54 years,Males,yll,48297.1
+Hypertensive heart disease,2010,55-59 years,Males,yll,47073.7
+Hypertensive heart disease,2010,60-64 years,Males,yll,44034.7
+Hypertensive heart disease,2010,65-69 years,Males,yll,33060.3
+Hypertensive heart disease,2010,70-74 years,Males,yll,25829.6
+Hypertensive heart disease,2010,75-79 years,Males,yll,22469.7
+Hypertensive heart disease,2010,80+ years,Males,yll,43363.8
+Hypertensive heart disease,2010,All ages,Males,yll,351462
+Hypertensive heart disease,2010,5-14 years,Males,yll,451.255
+Hypertensive heart disease,2010,Under 5 years,Females,yll,589.042
+Hypertensive heart disease,2010,15-19 years,Females,yll,255.485
+Hypertensive heart disease,2010,20-24 years,Females,yll,568.558
+Hypertensive heart disease,2010,25-29 years,Females,yll,1148.43
+Hypertensive heart disease,2010,30-34 years,Females,yll,2113.18
+Hypertensive heart disease,2010,35-39 years,Females,yll,4228.09
+Hypertensive heart disease,2010,40-44 years,Females,yll,9752.84
+Hypertensive heart disease,2010,45-49 years,Females,yll,17040.1
+Hypertensive heart disease,2010,50-54 years,Females,yll,22012.7
+Hypertensive heart disease,2010,55-59 years,Females,yll,24440.2
+Hypertensive heart disease,2010,60-64 years,Females,yll,27551.9
+Hypertensive heart disease,2010,65-69 years,Females,yll,25897.1
+Hypertensive heart disease,2010,70-74 years,Females,yll,26818.1
+Hypertensive heart disease,2010,75-79 years,Females,yll,30182.1
+Hypertensive heart disease,2010,80+ years,Females,yll,97626.7
+Hypertensive heart disease,2010,All ages,Females,yll,290456
+Hypertensive heart disease,2010,5-14 years,Females,yll,231.584
+COPD,2010,Under 5 years,Males,yll,2557.78
+COPD,2010,15-19 years,Males,yll,504.027
+COPD,2010,20-24 years,Males,yll,802.727
+COPD,2010,25-29 years,Males,yll,948.615
+COPD,2010,30-34 years,Males,yll,1119.91
+COPD,2010,35-39 years,Males,yll,2462.8
+COPD,2010,40-44 years,Males,yll,7197.12
+COPD,2010,45-49 years,Males,yll,20608.2
+COPD,2010,50-54 years,Males,yll,46109.3
+COPD,2010,55-59 years,Males,yll,74073.5
+COPD,2010,60-64 years,Males,yll,121556
+COPD,2010,65-69 years,Males,yll,144601
+COPD,2010,70-74 years,Males,yll,155991
+COPD,2010,75-79 years,Males,yll,153375
+COPD,2010,80+ years,Males,yll,222238
+COPD,2010,All ages,Males,yll,954663
+COPD,2010,5-14 years,Males,yll,518.384
+COPD,2010,Under 5 years,Females,yll,1547.61
+COPD,2010,15-19 years,Females,yll,431.225
+COPD,2010,20-24 years,Females,yll,482.435
+COPD,2010,25-29 years,Females,yll,796.64
+COPD,2010,30-34 years,Females,yll,1178.43
+COPD,2010,35-39 years,Females,yll,2217.05
+COPD,2010,40-44 years,Females,yll,7851.94
+COPD,2010,45-49 years,Females,yll,21170.2
+COPD,2010,50-54 years,Females,yll,42941.9
+COPD,2010,55-59 years,Females,yll,68808.9
+COPD,2010,60-64 years,Females,yll,116041
+COPD,2010,65-69 years,Females,yll,141455
+COPD,2010,70-74 years,Females,yll,153583
+COPD,2010,75-79 years,Females,yll,150515
+COPD,2010,80+ years,Females,yll,249016
+COPD,2010,All ages,Females,yll,958476
+COPD,2010,5-14 years,Females,yll,440.571
+Asthma,2010,Under 5 years,Males,yll,1812.31
+Asthma,2010,15-19 years,Males,yll,2797.42
+Asthma,2010,20-24 years,Males,yll,3123
+Asthma,2010,25-29 years,Males,yll,2951.74
+Asthma,2010,30-34 years,Males,yll,2346.84
+Asthma,2010,35-39 years,Males,yll,2538.43
+Asthma,2010,40-44 years,Males,yll,2970.2
+Asthma,2010,45-49 years,Males,yll,3815.11
+Asthma,2010,50-54 years,Males,yll,4114.06
+Asthma,2010,55-59 years,Males,yll,3259.48
+Asthma,2010,60-64 years,Males,yll,2877.59
+Asthma,2010,65-69 years,Males,yll,2322.61
+Asthma,2010,70-74 years,Males,yll,1711.12
+Asthma,2010,75-79 years,Males,yll,1419.58
+Asthma,2010,80+ years,Males,yll,2274.07
+Asthma,2010,All ages,Males,yll,44982.5
+Asthma,2010,5-14 years,Males,yll,4648.95
+Asthma,2010,Under 5 years,Females,yll,1263.22
+Asthma,2010,15-19 years,Females,yll,1921.09
+Asthma,2010,20-24 years,Females,yll,1986.06
+Asthma,2010,25-29 years,Females,yll,1958.73
+Asthma,2010,30-34 years,Females,yll,2327.06
+Asthma,2010,35-39 years,Females,yll,2935.03
+Asthma,2010,40-44 years,Females,yll,4259.32
+Asthma,2010,45-49 years,Females,yll,5975
+Asthma,2010,50-54 years,Females,yll,6230.78
+Asthma,2010,55-59 years,Females,yll,5238.01
+Asthma,2010,60-64 years,Females,yll,4688.4
+Asthma,2010,65-69 years,Females,yll,3388.15
+Asthma,2010,70-74 years,Females,yll,2869.52
+Asthma,2010,75-79 years,Females,yll,2378.86
+Asthma,2010,80+ years,Females,yll,5152.18
+Asthma,2010,All ages,Females,yll,55203.5
+Asthma,2010,5-14 years,Females,yll,2632.08
+Other respiratory diseases,2010,Under 5 years,Males,yll,11413.3
+Other respiratory diseases,2010,15-19 years,Males,yll,886.743
+Other respiratory diseases,2010,20-24 years,Males,yll,896.25
+Other respiratory diseases,2010,25-29 years,Males,yll,665.948
+Other respiratory diseases,2010,30-34 years,Males,yll,779.844
+Other respiratory diseases,2010,35-39 years,Males,yll,978.887
+Other respiratory diseases,2010,40-44 years,Males,yll,1583.55
+Other respiratory diseases,2010,45-49 years,Males,yll,2318.7
+Other respiratory diseases,2010,50-54 years,Males,yll,3409.87
+Other respiratory diseases,2010,55-59 years,Males,yll,4078.59
+Other respiratory diseases,2010,60-64 years,Males,yll,5386.57
+Other respiratory diseases,2010,65-69 years,Males,yll,5330.31
+Other respiratory diseases,2010,70-74 years,Males,yll,4966.83
+Other respiratory diseases,2010,75-79 years,Males,yll,4862.73
+Other respiratory diseases,2010,80+ years,Males,yll,7698.77
+Other respiratory diseases,2010,All ages,Males,yll,56500.9
+Other respiratory diseases,2010,5-14 years,Males,yll,1243.99
+Other respiratory diseases,2010,Under 5 years,Females,yll,7677.97
+Other respiratory diseases,2010,15-19 years,Females,yll,571.763
+Other respiratory diseases,2010,20-24 years,Females,yll,617.469
+Other respiratory diseases,2010,25-29 years,Females,yll,603.094
+Other respiratory diseases,2010,30-34 years,Females,yll,739.227
+Other respiratory diseases,2010,35-39 years,Females,yll,903.969
+Other respiratory diseases,2010,40-44 years,Females,yll,1331.63
+Other respiratory diseases,2010,45-49 years,Females,yll,2050.68
+Other respiratory diseases,2010,50-54 years,Females,yll,3019.32
+Other respiratory diseases,2010,55-59 years,Females,yll,3557.08
+Other respiratory diseases,2010,60-64 years,Females,yll,4783.17
+Other respiratory diseases,2010,65-69 years,Females,yll,4413.02
+Other respiratory diseases,2010,70-74 years,Females,yll,4294.88
+Other respiratory diseases,2010,75-79 years,Females,yll,4300.87
+Other respiratory diseases,2010,80+ years,Females,yll,9110.14
+Other respiratory diseases,2010,All ages,Females,yll,48885.4
+Other respiratory diseases,2010,5-14 years,Females,yll,911.083
+Alzheimers disease,2010,15-19 years,Males,yll,466.206
+Alzheimers disease,2010,20-24 years,Males,yll,423.75
+Alzheimers disease,2010,25-29 years,Males,yll,331.893
+Alzheimers disease,2010,30-34 years,Males,yll,355.639
+Alzheimers disease,2010,35-39 years,Males,yll,521.096
+Alzheimers disease,2010,40-44 years,Males,yll,1034.24
+Alzheimers disease,2010,45-49 years,Males,yll,2035.48
+Alzheimers disease,2010,50-54 years,Males,yll,4761.92
+Alzheimers disease,2010,55-59 years,Males,yll,9966.84
+Alzheimers disease,2010,60-64 years,Males,yll,19896.2
+Alzheimers disease,2010,65-69 years,Males,yll,30789.5
+Alzheimers disease,2010,70-74 years,Males,yll,53345.9
+Alzheimers disease,2010,75-79 years,Males,yll,83500.9
+Alzheimers disease,2010,80+ years,Males,yll,248061
+Alzheimers disease,2010,All ages,Males,yll,456972
+Alzheimers disease,2010,5-14 years,Males,yll,1481.55
+Alzheimers disease,2010,15-19 years,Females,yll,338.91
+Alzheimers disease,2010,20-24 years,Females,yll,293.187
+Alzheimers disease,2010,25-29 years,Females,yll,227.094
+Alzheimers disease,2010,30-34 years,Females,yll,313.051
+Alzheimers disease,2010,35-39 years,Females,yll,451.075
+Alzheimers disease,2010,40-44 years,Females,yll,748.326
+Alzheimers disease,2010,45-49 years,Females,yll,1874.61
+Alzheimers disease,2010,50-54 years,Females,yll,4165.35
+Alzheimers disease,2010,55-59 years,Females,yll,9516.48
+Alzheimers disease,2010,60-64 years,Females,yll,18856.9
+Alzheimers disease,2010,65-69 years,Females,yll,30265.6
+Alzheimers disease,2010,70-74 years,Females,yll,56599.5
+Alzheimers disease,2010,75-79 years,Females,yll,103700
+Alzheimers disease,2010,80+ years,Females,yll,506944
+Alzheimers disease,2010,All ages,Females,yll,735448
+Alzheimers disease,2010,5-14 years,Females,yll,1154.15
+Diabetes,2010,Under 5 years,Males,yll,1181.96
+Diabetes,2010,15-19 years,Males,yll,1782.76
+Diabetes,2010,20-24 years,Males,yll,4383.93
+Diabetes,2010,25-29 years,Males,yll,8392.32
+Diabetes,2010,30-34 years,Males,yll,13110.6
+Diabetes,2010,35-39 years,Males,yll,19734.7
+Diabetes,2010,40-44 years,Males,yll,32758.6
+Diabetes,2010,45-49 years,Males,yll,54156.9
+Diabetes,2010,50-54 years,Males,yll,77915.2
+Diabetes,2010,55-59 years,Males,yll,95441
+Diabetes,2010,60-64 years,Males,yll,108829
+Diabetes,2010,65-69 years,Males,yll,95123.6
+Diabetes,2010,70-74 years,Males,yll,82511.5
+Diabetes,2010,75-79 years,Males,yll,67964.7
+Diabetes,2010,80+ years,Males,yll,88267.1
+Diabetes,2010,All ages,Males,yll,752559
+Diabetes,2010,5-14 years,Males,yll,1005.06
+Diabetes,2010,Under 5 years,Females,yll,1059.08
+Diabetes,2010,15-19 years,Females,yll,1492.22
+Diabetes,2010,20-24 years,Females,yll,3443.63
+Diabetes,2010,25-29 years,Females,yll,6111.33
+Diabetes,2010,30-34 years,Females,yll,9185.23
+Diabetes,2010,35-39 years,Females,yll,13057.9
+Diabetes,2010,40-44 years,Females,yll,20943.7
+Diabetes,2010,45-49 years,Females,yll,33963
+Diabetes,2010,50-54 years,Females,yll,52420.2
+Diabetes,2010,55-59 years,Females,yll,68974.6
+Diabetes,2010,60-64 years,Females,yll,82754.6
+Diabetes,2010,65-69 years,Females,yll,80277.2
+Diabetes,2010,70-74 years,Females,yll,74707.7
+Diabetes,2010,75-79 years,Females,yll,70536.2
+Diabetes,2010,80+ years,Females,yll,119813
+Diabetes,2010,All ages,Females,yll,639801
+Diabetes,2010,5-14 years,Females,yll,1061.49
+Road injury,2010,Under 5 years,Males,yll,35486.8
+Road injury,2010,15-19 years,Males,yll,200998
+Road injury,2010,20-24 years,Males,yll,262971
+Road injury,2010,25-29 years,Males,yll,164123
+Road injury,2010,30-34 years,Males,yll,105174
+Road injury,2010,35-39 years,Males,yll,85795.2
+Road injury,2010,40-44 years,Males,yll,87533
+Road injury,2010,45-49 years,Males,yll,89084.9
+Road injury,2010,50-54 years,Males,yll,76110.8
+Road injury,2010,55-59 years,Males,yll,53565.3
+Road injury,2010,60-64 years,Males,yll,39761.6
+Road injury,2010,65-69 years,Males,yll,24622.8
+Road injury,2010,70-74 years,Males,yll,17695.4
+Road injury,2010,75-79 years,Males,yll,13213.3
+Road injury,2010,80+ years,Males,yll,14352.1
+Road injury,2010,All ages,Males,yll,1322470
+Road injury,2010,5-14 years,Males,yll,51979.4
+Road injury,2010,Under 5 years,Females,yll,27467.6
+Road injury,2010,15-19 years,Females,yll,95130.5
+Road injury,2010,20-24 years,Females,yll,76311.2
+Road injury,2010,25-29 years,Females,yll,47344.9
+Road injury,2010,30-34 years,Females,yll,35718.9
+Road injury,2010,35-39 years,Females,yll,34629.3
+Road injury,2010,40-44 years,Females,yll,36818.5
+Road injury,2010,45-49 years,Females,yll,36856.4
+Road injury,2010,50-54 years,Females,yll,30472.1
+Road injury,2010,55-59 years,Females,yll,25482.8
+Road injury,2010,60-64 years,Females,yll,21809
+Road injury,2010,65-69 years,Females,yll,15627.6
+Road injury,2010,70-74 years,Females,yll,12296.1
+Road injury,2010,75-79 years,Females,yll,9724.36
+Road injury,2010,80+ years,Females,yll,10494.9
+Road injury,2010,All ages,Females,yll,550692
+Road injury,2010,5-14 years,Females,yll,34508.3
+Pedestrian road injury,2010,Under 5 years,Males,yll,14790.6
+Pedestrian road injury,2010,15-19 years,Males,yll,13454.8
+Pedestrian road injury,2010,20-24 years,Males,yll,18452.9
+Pedestrian road injury,2010,25-29 years,Males,yll,14289.7
+Pedestrian road injury,2010,30-34 years,Males,yll,11296.9
+Pedestrian road injury,2010,35-39 years,Males,yll,10760.5
+Pedestrian road injury,2010,40-44 years,Males,yll,12451.8
+Pedestrian road injury,2010,45-49 years,Males,yll,13928.3
+Pedestrian road injury,2010,50-54 years,Males,yll,12904.6
+Pedestrian road injury,2010,55-59 years,Males,yll,8735.04
+Pedestrian road injury,2010,60-64 years,Males,yll,6685.13
+Pedestrian road injury,2010,65-69 years,Males,yll,4584.05
+Pedestrian road injury,2010,70-74 years,Males,yll,3401.42
+Pedestrian road injury,2010,75-79 years,Males,yll,2611.79
+Pedestrian road injury,2010,80+ years,Males,yll,2984.51
+Pedestrian road injury,2010,All ages,Males,yll,165394
+Pedestrian road injury,2010,5-14 years,Males,yll,14062.3
+Pedestrian road injury,2010,Under 5 years,Females,yll,8825.02
+Pedestrian road injury,2010,15-19 years,Females,yll,6082.64
+Pedestrian road injury,2010,20-24 years,Females,yll,5796.62
+Pedestrian road injury,2010,25-29 years,Females,yll,4469.91
+Pedestrian road injury,2010,30-34 years,Females,yll,3941.25
+Pedestrian road injury,2010,35-39 years,Females,yll,4169.35
+Pedestrian road injury,2010,40-44 years,Females,yll,5127.47
+Pedestrian road injury,2010,45-49 years,Females,yll,5263.18
+Pedestrian road injury,2010,50-54 years,Females,yll,4288.25
+Pedestrian road injury,2010,55-59 years,Females,yll,4140.06
+Pedestrian road injury,2010,60-64 years,Females,yll,3463.61
+Pedestrian road injury,2010,65-69 years,Females,yll,2830.16
+Pedestrian road injury,2010,70-74 years,Females,yll,2192.64
+Pedestrian road injury,2010,75-79 years,Females,yll,1868.55
+Pedestrian road injury,2010,80+ years,Females,yll,2058
+Pedestrian road injury,2010,All ages,Females,yll,71825.2
+Pedestrian road injury,2010,5-14 years,Females,yll,7308.51
+Other road injury,2010,Under 5 years,Males,yll,195.977
+Other road injury,2010,15-19 years,Males,yll,172.261
+Other road injury,2010,20-24 years,Males,yll,196.355
+Other road injury,2010,25-29 years,Males,yll,154.217
+Other road injury,2010,30-34 years,Males,yll,103.697
+Other road injury,2010,35-39 years,Males,yll,128.167
+Other road injury,2010,40-44 years,Males,yll,142.583
+Other road injury,2010,45-49 years,Males,yll,202.775
+Other road injury,2010,50-54 years,Males,yll,201.87
+Other road injury,2010,55-59 years,Males,yll,179.034
+Other road injury,2010,60-64 years,Males,yll,145.58
+Other road injury,2010,65-69 years,Males,yll,122.4
+Other road injury,2010,70-74 years,Males,yll,86.017
+Other road injury,2010,75-79 years,Males,yll,40.8262
+Other road injury,2010,80+ years,Males,yll,30.6526
+Other road injury,2010,All ages,Males,yll,2414.28
+Other road injury,2010,5-14 years,Males,yll,311.863
+Other road injury,2010,Under 5 years,Females,yll,136.047
+Other road injury,2010,15-19 years,Females,yll,122.746
+Other road injury,2010,20-24 years,Females,yll,113.8
+Other road injury,2010,25-29 years,Females,yll,80.671
+Other road injury,2010,30-34 years,Females,yll,78.3064
+Other road injury,2010,35-39 years,Females,yll,98.4983
+Other road injury,2010,40-44 years,Females,yll,96.075
+Other road injury,2010,45-49 years,Females,yll,127.689
+Other road injury,2010,50-54 years,Females,yll,138.489
+Other road injury,2010,55-59 years,Females,yll,112.225
+Other road injury,2010,60-64 years,Females,yll,96.3632
+Other road injury,2010,65-69 years,Females,yll,60.1904
+Other road injury,2010,70-74 years,Females,yll,29.6985
+Other road injury,2010,75-79 years,Females,yll,21.2021
+Other road injury,2010,80+ years,Females,yll,16.4306
+Other road injury,2010,All ages,Females,yll,1585.88
+Other road injury,2010,5-14 years,Females,yll,257.444
