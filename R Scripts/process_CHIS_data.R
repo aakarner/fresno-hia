@@ -147,12 +147,10 @@ chis.2005$MET_occ_hrs_wk <-
 	ifelse(chis.2005$occmain == 10, 6.5 * chis.2005$hours_worked,
 	#Military
 	ifelse(chis.2005$occmain == 11, 4.0 * chis.2005$hours_worked,
-	ifelse((chis.2005$occmain < 0 | chis.2005$occmain == 99) & chis.2005$hours_worked > 0,
+	# Missing or refused, assign 2.5
+	ifelse((chis.2005$occmain < 0 & chis.2005$hours_worked > 0,
 	2.5 * chis.2005$hours_worked0, 0)))))))))
 
-# If they're not unemployed (ak3 > 0) assign 2.5 METs per hour worked
-chis.2005$MET_occ_hrs_wk
-		
 # Total - non transport related physical activity;
 # Inclusion of walking is double counting;
 # MET hours/week of non-transport physical activity
