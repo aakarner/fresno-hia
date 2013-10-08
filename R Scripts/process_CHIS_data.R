@@ -41,7 +41,7 @@ setwd("D:/Dropbox/Work/02 postdoc/SJV HIA/data/CHIS/public use files/chis05_adul
 # -----------------------------------
 
 # Convert ADULT.SAV to ADULT.csv prior to running this line
-# Otherwise use read.spss in package 'foreign' 
+# Otherwise use read.spss() in package 'foreign' 
 chis.2005 <- read.csv("ADULT.csv")
 names(chis.2005) <- tolower(names(chis.2005))
 
@@ -142,9 +142,16 @@ chis.2005$MET_occ_hrs_wk <-
 	# Installation and repair
 	ifelse(chis.2005$occmain == 8, 3.5 * chis.2005$hours_worked,
 	# Production
-	ifelse(chis.2005$occmain == 9, 3 * chis.2005$hours_worked,
+	ifelse(chis.2005$occmain == 9, 3.0 * chis.2005$hours_worked,
 	# Transportation and material moving
-	ifelse(chis.2005$occmain == 10, 6.5 * chis.2005$hours_worked, 0)))))))
+	ifelse(chis.2005$occmain == 10, 6.5 * chis.2005$hours_worked,
+	#Military
+	ifelse(chis.2005$occmain == 11, 4.0 * chis.2005$hours_worked,
+	ifelse((chis.2005$occmain < 0 | chis.2005$occmain == 99) & chis.2005$hours_worked > 0,
+	2.5 * chis.2005$hours_worked0, 0)))))))))
+
+# If they're not unemployed (ak3 > 0) assign 2.5 METs per hour worked
+chis.2005$MET_occ_hrs_wk
 		
 # Total - non transport related physical activity;
 # Inclusion of walking is double counting;
@@ -160,3 +167,6 @@ a.s.o.table <- as.data.frame.table(
 	
 names(a.s.o.table) <- c("age8cat", "gender", "occupation", "METS")
 a.s.o.table$METS <- a.s.o.table$METS / 7  # Convert to daily values
+
+# Write the output
+write.csv(a.s.o.table, "CHIS_2005_nonwork_PA.csv", row.names = FALSE)
