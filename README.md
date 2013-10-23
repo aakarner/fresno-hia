@@ -1,6 +1,8 @@
 Fresno County HIA
 =================
 
+License: [GPL-3](http://www.gnu.org/licenses/gpl.html)
+
 These scripts illustrate one possibility for conducting a health impacts assessment of a regional transportation plan. It is based in part on a method developed by James Woodcock and colleagues for the UK, and Neil Maizlish and colleagues for California. This implementation offers the first application at a sub-regional level, providing detail at the both the county and city/unincorporated area level. In so doing it provides important information about the local benefits of transportation plans that facilitate physical activity via active transportation. While Woodcock and Maizlish examine the public health impacts of physical activity (PA), accidents, and air quality, this HIA focuses exclusively on PA. PA was found to account for by far the largest gains in public health to be achieved from transportation plans that support the use of non-motorized modes. 
 
 Currently, these scripts prepare a number of publicly (and not publicly) available datasets as input to an Excel spreadsheet that processes the final numbers. Ultimately, the entire HIA will be run programatically and will be transferable to other jurisdictions. 
