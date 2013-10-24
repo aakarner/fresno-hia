@@ -40,12 +40,14 @@ An attributable fraction and corresponding new burden of disease is calculated f
 
 All health benefits are summed and displayed on the "Health results" worksheet.
 
-If the user wishe to add additional diseases, they must create a new disease worksheet by copying one of the existing ones, update the links for RR of 1 MET, deaths, YLLs, and YLD per group, and the denominator for the proportion (row 41).
+If the user wishes to add additional diseases, they must create a new disease worksheet by copying one of the existing ones, update the links for RR of 1 MET, deaths, YLLs, and YLD per group, and the denominator for the proportion (row 41).
 
 Conduct analysis
 ----------------
 
 See the "Instructions" worksheet for further details on extracting quantified improvements in health outcomes from the spreadsheet model.
+
+In general, a typical user would likely want to adjust the means of active travel distance and time (on the "Inputs" worksheet). Advanced users may wish to modify the distribution of relative active travel times (on the "Active transport" worksheet), the MET values assigned for active travel to age-sex specific categories (the current method uses a step function developed by Woodcock et al. (2009)), or the coefficient of variation of active travel time. 
 
 References
 ----------
