@@ -7,7 +7,7 @@ These scripts illustrate one possibility for conducting a health impacts assessm
 
 Currently, these scripts prepare a number of publicly (and not publicly) available datasets as input to an Excel spreadsheet that processes the final numbers. Ultimately, the entire HIA will be run programatically and will be transferable to other jurisdictions. 
 
-Download the Excel spreadsheet 'Fresno County_Comparative Risk Assessment_SCS14.xlsx' to complete Fresno County analyses. Read 'step by step HIA instructions.md' for further details on method or to calibrate the model to other local conditions.
+Download the Excel spreadsheet 'Fresno County_Comparative Risk Assessment_SCS14.xlsm' to complete Fresno County analyses. Read 'step by step HIA instructions.md' for further details on method or to calibrate the model to other local conditions.
 
 NB: This is a work in progress - feedback is appreciated.
 
