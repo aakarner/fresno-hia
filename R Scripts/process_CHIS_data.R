@@ -11,7 +11,7 @@
 # GNU General Public License for more details.
 # 
 # You should have received a copy of the GNU General Public License
-# along with Foobar.  If not, see <http://www.gnu.org/licenses/>.
+# along with this script.  If not, see <http://www.gnu.org/licenses/>.
 
 # Author: Alex Karner
 # File: process_CHIS_data.R
@@ -79,7 +79,7 @@ chis.2005$minwk_walk4transport <- chis.2005$minwk_walk4transport * chis.2005$ad3
 
 # Moderate Physical Activity
 chis.2005$minwk_mod <- chis.2005$ae27a
-chis.2005$minwk_mod[chis.2005$ae26 == 1] <- 0
+chis.2005$minwk_mod[chis.2005$ae26 == -1] <- 0
 chis.2005$minwk_mod[chis.2005$ae27 <= 0] <- 0
 chis.2005$minwk_mod[chis.2005$ae27unt == 2] <- chis.2005$minwk_mod[chis.2005$ae27unt == 2] * 60
 chis.2005$minwk_mod <- chis.2005$minwk_mod * chis.2005$ae27
@@ -131,7 +131,7 @@ chis.2005$hours_worked <- 5 / 8 * chis.2005$hours_worked
 chis.2005$MET_occ_hrs_wk = 0
 
 chis.2005$MET_occ_hrs_wk <-
-	 # management, professional, office
+	# Management, professional, office
 	ifelse(chis.2005$occmain %in% c(1, 2, 5), 1.5 * chis.2005$hours_worked,
 	# Service and sales
 	ifelse(chis.2005$occmain %in% c(3, 4), 2.3 * chis.2005$hours_worked,
@@ -148,23 +148,29 @@ chis.2005$MET_occ_hrs_wk <-
 	#Military
 	ifelse(chis.2005$occmain == 11, 4.0 * chis.2005$hours_worked,
 	# Missing or refused, assign 2.5
-	ifelse((chis.2005$occmain < 0 & chis.2005$hours_worked > 0,
-	2.5 * chis.2005$hours_worked0, 0)))))))))
+	ifelse(chis.2005$occmain == 99 & chis.2005$hours_worked > 0,
+	2.5 * chis.2005$hours_worked, 0)))))))))
 
-# Total - non transport related physical activity;
-# Inclusion of walking is double counting;
+# Total - non transport related physical activity
+# Inclusion of walking is double counting
 # MET hours/week of non-transport physical activity
 chis.2005$MET_hrwk_nt_pa <- chis.2005$MET_mod_hrs_wk + chis.2005$MET_vig_hrs_wk + chis.2005$MET_occ_hrs_wk
 
-# Create a table of hours/week of non-work physical activity METS by age-sex-occupation categories
+# Create a table of METS/week for non-work physical activity by age-sex-occupation categories
 # Use as.data.frame.table() to coerce the 'by' object to a data frame
 # Ref: http://tolstoy.newcastle.edu.au/R/e8/help/09/11/6227.html
 a.s.o.table <- as.data.frame.table(
 	by(chis.2005, list(chis.2005$age8cat, chis.2005$srsex, chis.2005$occmain), 
-	function(x) weighted.mean(x$MET_hrwk_nt_pa, x$rakedw0), simplify = TRUE))
-	
+	function(x) weighted.mean(x$MET_hrwk_nt_pa, x$rakedw0, na.rm = TRUE), simplify = TRUE))
+
 names(a.s.o.table) <- c("age8cat", "gender", "occupation", "METS")
-a.s.o.table$METS <- a.s.o.table$METS / 7  # Convert to daily values
+
+# Create a table of median MET hours/week for non-work physical activity by age-sex category
+a.s.table <- as.data.frame.table(
+	by(chis.2005, list(chis.2005$age8cat, chis.2005$srsex), 
+	function(x) median(x$MET_hrwk_nt_pa, na.rm = TRUE), simplify = TRUE))
+
 
 # Write the output
 write.csv(a.s.o.table, "CHIS_2005_nonwork_PA.csv", row.names = FALSE)
+write.csv(a.s.table, "CHIS_2005_nonwork_PA_age_sex_categories.csv", row.names = FALSE)
